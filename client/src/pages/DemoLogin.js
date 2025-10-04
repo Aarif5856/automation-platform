@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { signInWithEmail } from '../firebase/auth';
 import { useNavigate } from 'react-router-dom';
 
 const DemoLogin = () => {
@@ -11,9 +10,9 @@ const DemoLogin = () => {
   const navigate = useNavigate();
 
   const demoCredentials = [
-    { email: 'demo@automation-suite.com', password: 'demo123', role: 'Admin', description: 'Full access to all features' },
-    { email: 'client@demo.com', password: 'client123', role: 'Client', description: 'Client dashboard access' },
-    { email: 'viewer@demo.com', password: 'viewer123', role: 'Viewer', description: 'Read-only access' }
+    { email: 'demo@automation-platform.com', password: 'demo123', role: 'Admin', description: 'Full access to all features' },
+    { email: 'agency@demo.com', password: 'agency123', role: 'Agency', description: 'Automation tools access' },
+    { email: 'consultant@demo.com', password: 'consultant123', role: 'Consultant', description: 'Analytics and campaigns' }
   ];
 
   const handleSubmit = async (e) => {
@@ -22,24 +21,35 @@ const DemoLogin = () => {
     setError('');
     setSuccess('');
 
-    try {
-      const result = await signInWithEmail(email, password);
+    // Simulate login delay
+    await new Promise(resolve => setTimeout(resolve, 1000));
+
+    // Check demo credentials
+    const validCredential = demoCredentials.find(cred => 
+      cred.email === email && cred.password === password
+    );
+
+    if (validCredential) {
+      // Store demo user in localStorage
+      localStorage.setItem('demoUser', JSON.stringify({
+        email: validCredential.email,
+        role: validCredential.role,
+        name: validCredential.role === 'Admin' ? 'Demo Admin' : 
+              validCredential.role === 'Agency' ? 'Marketing Agency' : 'Business Consultant',
+        loginTime: new Date().toISOString()
+      }));
+
+      setSuccess(`Welcome, ${validCredential.role}! Login successful!`);
       
-      if (result.success) {
-        setSuccess(`Welcome, ${result.user.name}! Login successful!`);
-        
-        // Navigate to dashboard after a short delay
-        setTimeout(() => {
-          navigate('/dashboard');
-        }, 1500);
-      } else {
-        setError(result.error || 'Login failed');
-      }
-    } catch (err) {
-      setError(err.message || 'An error occurred during login');
-    } finally {
-      setLoading(false);
+      // Navigate to dashboard after a short delay
+      setTimeout(() => {
+        navigate('/dashboard');
+      }, 1500);
+    } else {
+      setError('Invalid demo credentials. Please use one of the demo accounts below.');
     }
+
+    setLoading(false);
   };
 
   const handleDemoLogin = (demoEmail, demoPassword) => {
@@ -172,7 +182,7 @@ const DemoLogin = () => {
                     type="email"
                     value={email}
                     onChange={(e) => setEmail(e.target.value)}
-                    placeholder="demo@automation-suite.com"
+                    placeholder="demo@automation-platform.com"
                     style={{
                       width: '100%',
                       padding: '8px 12px',
@@ -257,7 +267,7 @@ const DemoLogin = () => {
             Ready to start your automation business?
           </p>
           <p style={{ fontSize: '14px', color: '#3182ce', fontWeight: 'bold', margin: '4px 0' }}>
-            This system has generated $50,000+ in revenue!
+            This system has generated $12,450+ in revenue!
           </p>
         </div>
       </div>
