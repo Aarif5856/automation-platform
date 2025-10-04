@@ -1,0 +1,10 @@
+{
+  "high_priority": {
+    "subject": "Quick question about {company} lead generation",
+    "body": "Hi {first_name},\n\nI noticed you're {title} at {company} and thought you might be interested in our automation services.\n\nWe help businesses like yours:\n\u2022 Generate 500+ qualified leads per month\n\u2022 Automate email marketing campaigns  \n\u2022 Extract data from any website\n\u2022 Save 20+ hours per week on manual tasks\n\nOur clients typically see 300% increase in lead generation within 30 days.\n\nWould you like a free mini demo? I can scrape 50 leads for your industry in the next 24 hours - no strings attached.\n\nBook a quick 15-minute call: https://calendly.com/the-automatepro/free-demo\n\nBest regards,\nThe AutomatePro Team\ninfo@the-automatepro.info"
+  },
+  "medium_priority": {
+    "subject": "Automation services for {company}",
+    "body": "Hi {first_name},\n\nI help {company} and similar businesses automate their lead generation and marketing processes.\n\nOur automation tools can:\n\u2022 Generate 500+ leads per month\n\u2022 Automate email campaigns\n\u2022 Extract competitor data\n\u2022 Save 20+ hours weekly\n\nInterested in a free demo? I'll show you how to generate 50 leads in 5 minutes.\n\nBook a call: https://calendly.com/the-automatepro/free-demo\n\nBest,\nThe AutomatePro Team"
+  }
+}

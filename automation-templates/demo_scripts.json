@@ -1,0 +1,59 @@
+{
+  "linkedin_demo": {
+    "title": "LinkedIn Lead Generator Demo",
+    "duration": "2-3 minutes",
+    "steps": [
+      "Open LinkedIn in browser",
+      "Navigate to search page",
+      "Enter search criteria: 'CEO technology companies'",
+      "Show automation tool running",
+      "Display results in real-time",
+      "Export to CSV and show file",
+      "Highlight key metrics (500+ leads, 30 minutes)"
+    ],
+    "key_points": [
+      "500+ qualified leads generated",
+      "30 minutes total time",
+      "Automated contact extraction",
+      "CSV export ready for CRM"
+    ]
+  },
+  "email_demo": {
+    "title": "Email Campaign Manager Demo",
+    "duration": "2-3 minutes",
+    "steps": [
+      "Open email dashboard",
+      "Import lead list from CSV",
+      "Create email template with personalization",
+      "Set up campaign parameters",
+      "Send test email to yourself",
+      "Show campaign dashboard with metrics",
+      "Display results (open rates, clicks, etc.)"
+    ],
+    "key_points": [
+      "45% open rate achieved",
+      "12% click rate",
+      "Personalized emails",
+      "Real-time tracking"
+    ]
+  },
+  "scraping_demo": {
+    "title": "Web Scraper Demo",
+    "duration": "2-3 minutes",
+    "steps": [
+      "Open target website (e-commerce site)",
+      "Start scraper tool",
+      "Configure data points to extract",
+      "Run scraping process (show progress)",
+      "Display results in real-time",
+      "Export to Excel and show file",
+      "Highlight data quality and completeness"
+    ],
+    "key_points": [
+      "1000+ products scraped",
+      "5 minutes total time",
+      "Clean, structured data",
+      "Excel export ready"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "CLIENT_001",
+    "name": "TechStart Inc.",
+    "email": "sarah@techstart.com",
+    "plan": "Growth Package",
+    "monthly_fee": 997,
+    "status": "Active",
+    "signup_date": "2024-01-15",
+    "last_login": "2024-09-17",
+    "projects_completed": 12,
+    "total_spent": 11964
+  },
+  {
+    "id": "CLIENT_002",
+    "name": "GrowthCo Agency",
+    "email": "mike@growthco.com",
+    "plan": "Enterprise Package",
+    "monthly_fee": 1997,
+    "status": "Active",
+    "signup_date": "2024-02-20",
+    "last_login": "2024-09-16",
+    "projects_completed": 8,
+    "total_spent": 15976
+  },
+  {
+    "id": "CLIENT_003",
+    "name": "E-commerce Plus",
+    "email": "emily@ecommerceplus.com",
+    "plan": "Starter Package",
+    "monthly_fee": 497,
+    "status": "Active",
+    "signup_date": "2024-03-10",
+    "last_login": "2024-09-15",
+    "projects_completed": 15,
+    "total_spent": 7455
+  }
+]

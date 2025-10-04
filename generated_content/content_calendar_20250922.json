@@ -1,0 +1,362 @@
+[
+  {
+    "date": "2025-09-22",
+    "day_of_week": "Monday",
+    "content_type": "case_study",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Client Success Story",
+    "description": "Share a case study with results and testimonial"
+  },
+  {
+    "date": "2025-09-23",
+    "day_of_week": "Tuesday",
+    "content_type": "educational",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Automation Education",
+    "description": "Teach about automation tools and best practices"
+  },
+  {
+    "date": "2025-09-24",
+    "day_of_week": "Wednesday",
+    "content_type": "business_tip",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Business Growth Tip",
+    "description": "Share actionable business advice"
+  },
+  {
+    "date": "2025-09-25",
+    "day_of_week": "Thursday",
+    "content_type": "tool_demo",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Tool Demonstration",
+    "description": "Show how our automation tools work"
+  },
+  {
+    "date": "2025-09-26",
+    "day_of_week": "Friday",
+    "content_type": "client_testimonial",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Client Testimonial",
+    "description": "Share client feedback and results"
+  },
+  {
+    "date": "2025-09-27",
+    "day_of_week": "Saturday",
+    "content_type": "industry_insight",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Industry Insight",
+    "description": "Share industry trends and analysis"
+  },
+  {
+    "date": "2025-09-28",
+    "day_of_week": "Sunday",
+    "content_type": "behind_scenes",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Behind the Scenes",
+    "description": "Show the process of delivering automation services"
+  },
+  {
+    "date": "2025-09-29",
+    "day_of_week": "Monday",
+    "content_type": "case_study",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Client Success Story",
+    "description": "Share a case study with results and testimonial"
+  },
+  {
+    "date": "2025-09-30",
+    "day_of_week": "Tuesday",
+    "content_type": "educational",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Automation Education",
+    "description": "Teach about automation tools and best practices"
+  },
+  {
+    "date": "2025-10-01",
+    "day_of_week": "Wednesday",
+    "content_type": "business_tip",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Business Growth Tip",
+    "description": "Share actionable business advice"
+  },
+  {
+    "date": "2025-10-02",
+    "day_of_week": "Thursday",
+    "content_type": "tool_demo",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Tool Demonstration",
+    "description": "Show how our automation tools work"
+  },
+  {
+    "date": "2025-10-03",
+    "day_of_week": "Friday",
+    "content_type": "client_testimonial",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Client Testimonial",
+    "description": "Share client feedback and results"
+  },
+  {
+    "date": "2025-10-04",
+    "day_of_week": "Saturday",
+    "content_type": "industry_insight",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Industry Insight",
+    "description": "Share industry trends and analysis"
+  },
+  {
+    "date": "2025-10-05",
+    "day_of_week": "Sunday",
+    "content_type": "behind_scenes",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Behind the Scenes",
+    "description": "Show the process of delivering automation services"
+  },
+  {
+    "date": "2025-10-06",
+    "day_of_week": "Monday",
+    "content_type": "case_study",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Client Success Story",
+    "description": "Share a case study with results and testimonial"
+  },
+  {
+    "date": "2025-10-07",
+    "day_of_week": "Tuesday",
+    "content_type": "educational",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Automation Education",
+    "description": "Teach about automation tools and best practices"
+  },
+  {
+    "date": "2025-10-08",
+    "day_of_week": "Wednesday",
+    "content_type": "business_tip",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Business Growth Tip",
+    "description": "Share actionable business advice"
+  },
+  {
+    "date": "2025-10-09",
+    "day_of_week": "Thursday",
+    "content_type": "tool_demo",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Tool Demonstration",
+    "description": "Show how our automation tools work"
+  },
+  {
+    "date": "2025-10-10",
+    "day_of_week": "Friday",
+    "content_type": "client_testimonial",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Client Testimonial",
+    "description": "Share client feedback and results"
+  },
+  {
+    "date": "2025-10-11",
+    "day_of_week": "Saturday",
+    "content_type": "industry_insight",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Industry Insight",
+    "description": "Share industry trends and analysis"
+  },
+  {
+    "date": "2025-10-12",
+    "day_of_week": "Sunday",
+    "content_type": "behind_scenes",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Behind the Scenes",
+    "description": "Show the process of delivering automation services"
+  },
+  {
+    "date": "2025-10-13",
+    "day_of_week": "Monday",
+    "content_type": "case_study",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Client Success Story",
+    "description": "Share a case study with results and testimonial"
+  },
+  {
+    "date": "2025-10-14",
+    "day_of_week": "Tuesday",
+    "content_type": "educational",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Automation Education",
+    "description": "Teach about automation tools and best practices"
+  },
+  {
+    "date": "2025-10-15",
+    "day_of_week": "Wednesday",
+    "content_type": "business_tip",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Business Growth Tip",
+    "description": "Share actionable business advice"
+  },
+  {
+    "date": "2025-10-16",
+    "day_of_week": "Thursday",
+    "content_type": "tool_demo",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Tool Demonstration",
+    "description": "Show how our automation tools work"
+  },
+  {
+    "date": "2025-10-17",
+    "day_of_week": "Friday",
+    "content_type": "client_testimonial",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Client Testimonial",
+    "description": "Share client feedback and results"
+  },
+  {
+    "date": "2025-10-18",
+    "day_of_week": "Saturday",
+    "content_type": "industry_insight",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Industry Insight",
+    "description": "Share industry trends and analysis"
+  },
+  {
+    "date": "2025-10-19",
+    "day_of_week": "Sunday",
+    "content_type": "behind_scenes",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Behind the Scenes",
+    "description": "Show the process of delivering automation services"
+  },
+  {
+    "date": "2025-10-20",
+    "day_of_week": "Monday",
+    "content_type": "case_study",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Client Success Story",
+    "description": "Share a case study with results and testimonial"
+  },
+  {
+    "date": "2025-10-21",
+    "day_of_week": "Tuesday",
+    "content_type": "educational",
+    "platforms": [
+      "linkedin",
+      "twitter"
+    ],
+    "status": "scheduled",
+    "title": "Automation Education",
+    "description": "Teach about automation tools and best practices"
+  }
+]

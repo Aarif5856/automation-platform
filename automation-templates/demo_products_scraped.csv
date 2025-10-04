@@ -1,0 +1,101 @@
+id,name,price,category,rating,description,availability,brand,scraped_at
+PROD_001,Portable Phone Charger 1,$29.99,Accessories,4.7,High-quality portable phone charger with excellent features,Limited Stock,TechBrand,2025-09-17 11:18:39
+PROD_002,Wireless Mouse 2,$39.99,Computer,4.2,High-quality wireless mouse with excellent features,In Stock,ProTech,2025-09-17 11:18:39
+PROD_003,Smart Fitness Watch 3,$199.99,Wearables,4.3,High-quality smart fitness watch with excellent features,In Stock,SmartGear,2025-09-17 11:18:39
+PROD_004,Portable Phone Charger 4,$29.99,Accessories,4.7,High-quality portable phone charger with excellent features,Limited Stock,ProTech,2025-09-17 11:18:39
+PROD_005,Wireless Mouse 5,$39.99,Computer,4.2,High-quality wireless mouse with excellent features,In Stock,TechBrand,2025-09-17 11:18:39
+PROD_006,Bluetooth Speaker 6,$79.99,Audio,4.4,High-quality bluetooth speaker with excellent features,In Stock,EliteGadgets,2025-09-17 11:18:39
+PROD_007,Bluetooth Speaker 7,$79.99,Audio,4.4,High-quality bluetooth speaker with excellent features,Limited Stock,SmartGear,2025-09-17 11:18:39
+PROD_008,USB-C Cable 8,$12.99,Cables,4.6,High-quality usb-c cable with excellent features,Limited Stock,TechBrand,2025-09-17 11:18:39
+PROD_009,Tablet Stand 9,$24.99,Accessories,4.1,High-quality tablet stand with excellent features,In Stock,SmartGear,2025-09-17 11:18:39
+PROD_010,Wireless Mouse 10,$39.99,Computer,4.2,High-quality wireless mouse with excellent features,Out of Stock,TechBrand,2025-09-17 11:18:39
+PROD_011,Smart Fitness Watch 11,$199.99,Wearables,4.3,High-quality smart fitness watch with excellent features,Limited Stock,EliteGadgets,2025-09-17 11:18:39
+PROD_012,Portable Phone Charger 12,$29.99,Accessories,4.7,High-quality portable phone charger with excellent features,In Stock,SmartGear,2025-09-17 11:18:39
+PROD_013,Wireless Mouse 13,$39.99,Computer,4.2,High-quality wireless mouse with excellent features,Out of Stock,ProTech,2025-09-17 11:18:39
+PROD_014,USB-C Cable 14,$12.99,Cables,4.6,High-quality usb-c cable with excellent features,Limited Stock,TechBrand,2025-09-17 11:18:39
+PROD_015,Wireless Bluetooth Headphones 15,$99.99,Electronics,4.5,High-quality wireless bluetooth headphones with excellent features,Out of Stock,SmartGear,2025-09-17 11:18:39
+PROD_016,Smart Fitness Watch 16,$199.99,Wearables,4.3,High-quality smart fitness watch with excellent features,Out of Stock,EliteGadgets,2025-09-17 11:18:39
+PROD_017,Gaming Headset 17,$89.99,Gaming,4.5,High-quality gaming headset with excellent features,In Stock,TechBrand,2025-09-17 11:18:39
+PROD_018,Wireless Mouse 18,$39.99,Computer,4.2,High-quality wireless mouse with excellent features,In Stock,ProTech,2025-09-17 11:18:39
+PROD_019,Gaming Headset 19,$89.99,Gaming,4.5,High-quality gaming headset with excellent features,Limited Stock,TechBrand,2025-09-17 11:18:39
+PROD_020,Gaming Headset 20,$89.99,Gaming,4.5,High-quality gaming headset with excellent features,In Stock,SmartGear,2025-09-17 11:18:39
+PROD_021,Wireless Mouse 21,$39.99,Computer,4.2,High-quality wireless mouse with excellent features,Limited Stock,TechBrand,2025-09-17 11:18:39
+PROD_022,Portable Phone Charger 22,$29.99,Accessories,4.7,High-quality portable phone charger with excellent features,Limited Stock,SmartGear,2025-09-17 11:18:39
+PROD_023,Screen Protector 23,$9.99,Accessories,4.3,High-quality screen protector with excellent features,Out of Stock,ProTech,2025-09-17 11:18:39
+PROD_024,USB-C Cable 24,$12.99,Cables,4.6,High-quality usb-c cable with excellent features,Limited Stock,ProTech,2025-09-17 11:18:39
+PROD_025,Smart Fitness Watch 25,$199.99,Wearables,4.3,High-quality smart fitness watch with excellent features,In Stock,TechBrand,2025-09-17 11:18:39
+PROD_026,Portable Phone Charger 26,$29.99,Accessories,4.7,High-quality portable phone charger with excellent features,Limited Stock,TechBrand,2025-09-17 11:18:39
+PROD_027,Smart Fitness Watch 27,$199.99,Wearables,4.3,High-quality smart fitness watch with excellent features,In Stock,SmartGear,2025-09-17 11:18:39
+PROD_028,Wireless Mouse 28,$39.99,Computer,4.2,High-quality wireless mouse with excellent features,Limited Stock,SmartGear,2025-09-17 11:18:39
+PROD_029,Bluetooth Speaker 29,$79.99,Audio,4.4,High-quality bluetooth speaker with excellent features,Limited Stock,TechBrand,2025-09-17 11:18:39
+PROD_030,Portable Phone Charger 30,$29.99,Accessories,4.7,High-quality portable phone charger with excellent features,In Stock,ProTech,2025-09-17 11:18:39
+PROD_031,Screen Protector 31,$9.99,Accessories,4.3,High-quality screen protector with excellent features,Limited Stock,TechBrand,2025-09-17 11:18:39
+PROD_032,Tablet Stand 32,$24.99,Accessories,4.1,High-quality tablet stand with excellent features,Out of Stock,TechBrand,2025-09-17 11:18:39
+PROD_033,Smart Fitness Watch 33,$199.99,Wearables,4.3,High-quality smart fitness watch with excellent features,In Stock,ProTech,2025-09-17 11:18:39
+PROD_034,Mechanical Keyboard 34,$149.99,Computer,4.8,High-quality mechanical keyboard with excellent features,Out of Stock,SmartGear,2025-09-17 11:18:39
+PROD_035,Wireless Bluetooth Headphones 35,$99.99,Electronics,4.5,High-quality wireless bluetooth headphones with excellent features,Limited Stock,ProTech,2025-09-17 11:18:39
+PROD_036,Portable Phone Charger 36,$29.99,Accessories,4.7,High-quality portable phone charger with excellent features,In Stock,SmartGear,2025-09-17 11:18:39
+PROD_037,Tablet Stand 37,$24.99,Accessories,4.1,High-quality tablet stand with excellent features,Out of Stock,EliteGadgets,2025-09-17 11:18:39
+PROD_038,Screen Protector 38,$9.99,Accessories,4.3,High-quality screen protector with excellent features,In Stock,TechBrand,2025-09-17 11:18:39
+PROD_039,Bluetooth Speaker 39,$79.99,Audio,4.4,High-quality bluetooth speaker with excellent features,In Stock,TechBrand,2025-09-17 11:18:39
+PROD_040,Wireless Mouse 40,$39.99,Computer,4.2,High-quality wireless mouse with excellent features,In Stock,SmartGear,2025-09-17 11:18:39
+PROD_041,Portable Phone Charger 41,$29.99,Accessories,4.7,High-quality portable phone charger with excellent features,In Stock,ProTech,2025-09-17 11:18:39
+PROD_042,Wireless Mouse 42,$39.99,Computer,4.2,High-quality wireless mouse with excellent features,In Stock,SmartGear,2025-09-17 11:18:39
+PROD_043,Smart Fitness Watch 43,$199.99,Wearables,4.3,High-quality smart fitness watch with excellent features,Out of Stock,ProTech,2025-09-17 11:18:39
+PROD_044,USB-C Cable 44,$12.99,Cables,4.6,High-quality usb-c cable with excellent features,In Stock,SmartGear,2025-09-17 11:18:39
+PROD_045,Screen Protector 45,$9.99,Accessories,4.3,High-quality screen protector with excellent features,Out of Stock,SmartGear,2025-09-17 11:18:39
+PROD_046,Mechanical Keyboard 46,$149.99,Computer,4.8,High-quality mechanical keyboard with excellent features,In Stock,TechBrand,2025-09-17 11:18:39
+PROD_047,Portable Phone Charger 47,$29.99,Accessories,4.7,High-quality portable phone charger with excellent features,Limited Stock,SmartGear,2025-09-17 11:18:39
+PROD_048,Wireless Bluetooth Headphones 48,$99.99,Electronics,4.5,High-quality wireless bluetooth headphones with excellent features,In Stock,TechBrand,2025-09-17 11:18:39
+PROD_049,Screen Protector 49,$9.99,Accessories,4.3,High-quality screen protector with excellent features,Out of Stock,EliteGadgets,2025-09-17 11:18:39
+PROD_050,Bluetooth Speaker 50,$79.99,Audio,4.4,High-quality bluetooth speaker with excellent features,In Stock,SmartGear,2025-09-17 11:18:39
+PROD_051,Wireless Mouse 51,$39.99,Computer,4.2,High-quality wireless mouse with excellent features,Out of Stock,SmartGear,2025-09-17 11:18:39
+PROD_052,Gaming Headset 52,$89.99,Gaming,4.5,High-quality gaming headset with excellent features,Limited Stock,TechBrand,2025-09-17 11:18:39
+PROD_053,Wireless Bluetooth Headphones 53,$99.99,Electronics,4.5,High-quality wireless bluetooth headphones with excellent features,Out of Stock,SmartGear,2025-09-17 11:18:39
+PROD_054,Gaming Headset 54,$89.99,Gaming,4.5,High-quality gaming headset with excellent features,Limited Stock,TechBrand,2025-09-17 11:18:39
+PROD_055,USB-C Cable 55,$12.99,Cables,4.6,High-quality usb-c cable with excellent features,In Stock,SmartGear,2025-09-17 11:18:39
+PROD_056,Wireless Bluetooth Headphones 56,$99.99,Electronics,4.5,High-quality wireless bluetooth headphones with excellent features,In Stock,SmartGear,2025-09-17 11:18:39
+PROD_057,Bluetooth Speaker 57,$79.99,Audio,4.4,High-quality bluetooth speaker with excellent features,In Stock,TechBrand,2025-09-17 11:18:39
+PROD_058,Gaming Headset 58,$89.99,Gaming,4.5,High-quality gaming headset with excellent features,In Stock,EliteGadgets,2025-09-17 11:18:39
+PROD_059,USB-C Cable 59,$12.99,Cables,4.6,High-quality usb-c cable with excellent features,Out of Stock,EliteGadgets,2025-09-17 11:18:39
+PROD_060,Wireless Mouse 60,$39.99,Computer,4.2,High-quality wireless mouse with excellent features,Out of Stock,SmartGear,2025-09-17 11:18:39
+PROD_061,Smart Fitness Watch 61,$199.99,Wearables,4.3,High-quality smart fitness watch with excellent features,In Stock,EliteGadgets,2025-09-17 11:18:39
+PROD_062,Gaming Headset 62,$89.99,Gaming,4.5,High-quality gaming headset with excellent features,In Stock,TechBrand,2025-09-17 11:18:39
+PROD_063,Bluetooth Speaker 63,$79.99,Audio,4.4,High-quality bluetooth speaker with excellent features,Limited Stock,TechBrand,2025-09-17 11:18:39
+PROD_064,Wireless Bluetooth Headphones 64,$99.99,Electronics,4.5,High-quality wireless bluetooth headphones with excellent features,In Stock,SmartGear,2025-09-17 11:18:39
+PROD_065,Wireless Bluetooth Headphones 65,$99.99,Electronics,4.5,High-quality wireless bluetooth headphones with excellent features,Out of Stock,SmartGear,2025-09-17 11:18:39
+PROD_066,Gaming Headset 66,$89.99,Gaming,4.5,High-quality gaming headset with excellent features,Out of Stock,EliteGadgets,2025-09-17 11:18:39
+PROD_067,Gaming Headset 67,$89.99,Gaming,4.5,High-quality gaming headset with excellent features,Limited Stock,ProTech,2025-09-17 11:18:39
+PROD_068,Wireless Mouse 68,$39.99,Computer,4.2,High-quality wireless mouse with excellent features,Limited Stock,TechBrand,2025-09-17 11:18:39
+PROD_069,Bluetooth Speaker 69,$79.99,Audio,4.4,High-quality bluetooth speaker with excellent features,Limited Stock,TechBrand,2025-09-17 11:18:39
+PROD_070,Screen Protector 70,$9.99,Accessories,4.3,High-quality screen protector with excellent features,Limited Stock,SmartGear,2025-09-17 11:18:39
+PROD_071,Wireless Mouse 71,$39.99,Computer,4.2,High-quality wireless mouse with excellent features,Limited Stock,SmartGear,2025-09-17 11:18:39
+PROD_072,Tablet Stand 72,$24.99,Accessories,4.1,High-quality tablet stand with excellent features,Limited Stock,EliteGadgets,2025-09-17 11:18:39
+PROD_073,Smart Fitness Watch 73,$199.99,Wearables,4.3,High-quality smart fitness watch with excellent features,Limited Stock,ProTech,2025-09-17 11:18:39
+PROD_074,Screen Protector 74,$9.99,Accessories,4.3,High-quality screen protector with excellent features,Limited Stock,EliteGadgets,2025-09-17 11:18:39
+PROD_075,Wireless Bluetooth Headphones 75,$99.99,Electronics,4.5,High-quality wireless bluetooth headphones with excellent features,Limited Stock,SmartGear,2025-09-17 11:18:39
+PROD_076,Smart Fitness Watch 76,$199.99,Wearables,4.3,High-quality smart fitness watch with excellent features,In Stock,ProTech,2025-09-17 11:18:39
+PROD_077,Wireless Bluetooth Headphones 77,$99.99,Electronics,4.5,High-quality wireless bluetooth headphones with excellent features,In Stock,TechBrand,2025-09-17 11:18:39
+PROD_078,Smart Fitness Watch 78,$199.99,Wearables,4.3,High-quality smart fitness watch with excellent features,In Stock,SmartGear,2025-09-17 11:18:39
+PROD_079,USB-C Cable 79,$12.99,Cables,4.6,High-quality usb-c cable with excellent features,In Stock,SmartGear,2025-09-17 11:18:39
+PROD_080,Portable Phone Charger 80,$29.99,Accessories,4.7,High-quality portable phone charger with excellent features,In Stock,ProTech,2025-09-17 11:18:39
+PROD_081,Portable Phone Charger 81,$29.99,Accessories,4.7,High-quality portable phone charger with excellent features,In Stock,SmartGear,2025-09-17 11:18:39
+PROD_082,Portable Phone Charger 82,$29.99,Accessories,4.7,High-quality portable phone charger with excellent features,In Stock,SmartGear,2025-09-17 11:18:39
+PROD_083,Portable Phone Charger 83,$29.99,Accessories,4.7,High-quality portable phone charger with excellent features,In Stock,SmartGear,2025-09-17 11:18:39
+PROD_084,Screen Protector 84,$9.99,Accessories,4.3,High-quality screen protector with excellent features,In Stock,SmartGear,2025-09-17 11:18:39
+PROD_085,Wireless Mouse 85,$39.99,Computer,4.2,High-quality wireless mouse with excellent features,In Stock,SmartGear,2025-09-17 11:18:39
+PROD_086,Portable Phone Charger 86,$29.99,Accessories,4.7,High-quality portable phone charger with excellent features,Out of Stock,ProTech,2025-09-17 11:18:39
+PROD_087,Bluetooth Speaker 87,$79.99,Audio,4.4,High-quality bluetooth speaker with excellent features,Limited Stock,SmartGear,2025-09-17 11:18:39
+PROD_088,Smart Fitness Watch 88,$199.99,Wearables,4.3,High-quality smart fitness watch with excellent features,Limited Stock,TechBrand,2025-09-17 11:18:39
+PROD_089,USB-C Cable 89,$12.99,Cables,4.6,High-quality usb-c cable with excellent features,Out of Stock,SmartGear,2025-09-17 11:18:39
+PROD_090,Portable Phone Charger 90,$29.99,Accessories,4.7,High-quality portable phone charger with excellent features,Out of Stock,ProTech,2025-09-17 11:18:39
+PROD_091,Tablet Stand 91,$24.99,Accessories,4.1,High-quality tablet stand with excellent features,Out of Stock,SmartGear,2025-09-17 11:18:39
+PROD_092,Tablet Stand 92,$24.99,Accessories,4.1,High-quality tablet stand with excellent features,Limited Stock,TechBrand,2025-09-17 11:18:39
+PROD_093,Bluetooth Speaker 93,$79.99,Audio,4.4,High-quality bluetooth speaker with excellent features,Out of Stock,SmartGear,2025-09-17 11:18:39
+PROD_094,Gaming Headset 94,$89.99,Gaming,4.5,High-quality gaming headset with excellent features,In Stock,SmartGear,2025-09-17 11:18:39
+PROD_095,Mechanical Keyboard 95,$149.99,Computer,4.8,High-quality mechanical keyboard with excellent features,Limited Stock,TechBrand,2025-09-17 11:18:39
+PROD_096,Wireless Bluetooth Headphones 96,$99.99,Electronics,4.5,High-quality wireless bluetooth headphones with excellent features,Limited Stock,TechBrand,2025-09-17 11:18:39
+PROD_097,USB-C Cable 97,$12.99,Cables,4.6,High-quality usb-c cable with excellent features,In Stock,SmartGear,2025-09-17 11:18:39
+PROD_098,Screen Protector 98,$9.99,Accessories,4.3,High-quality screen protector with excellent features,Limited Stock,EliteGadgets,2025-09-17 11:18:39
+PROD_099,Screen Protector 99,$9.99,Accessories,4.3,High-quality screen protector with excellent features,In Stock,TechBrand,2025-09-17 11:18:39
+PROD_100,Wireless Mouse 100,$39.99,Computer,4.2,High-quality wireless mouse with excellent features,Out of Stock,TechBrand,2025-09-17 11:18:39

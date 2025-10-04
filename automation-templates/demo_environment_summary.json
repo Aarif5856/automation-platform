@@ -1,0 +1,16 @@
+{
+  "prepared_at": "2025-09-17T11:18:39.381313",
+  "demo_leads": 50,
+  "demo_products": 100,
+  "email_templates": 2,
+  "client_accounts": 3,
+  "demo_scripts": 3,
+  "files_created": [
+    "demo_leads_linkedin.csv",
+    "demo_email_templates.json",
+    "demo_products_scraped.csv",
+    "demo_metrics.json",
+    "demo_clients.json",
+    "demo_scripts.json"
+  ]
+}

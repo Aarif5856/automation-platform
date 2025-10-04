@@ -1,0 +1,15 @@
+[
+  {
+    "url": "https://example-store.com/products",
+    "data": {
+      "product_name": null,
+      "price": null,
+      "description": null,
+      "rating": null,
+      "availability": null
+    },
+    "timestamp": "2025-10-05T00:01:08.632945",
+    "success": true,
+    "error": ""
+  }
+]

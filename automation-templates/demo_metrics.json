@@ -1,0 +1,35 @@
+{
+  "lead_generation": {
+    "total_leads": 500,
+    "leads_this_month": 150,
+    "conversion_rate": 15.2,
+    "cost_per_lead": 2.5,
+    "leads_by_source": {
+      "LinkedIn": 300,
+      "Email": 100,
+      "Web Scraping": 100
+    }
+  },
+  "email_campaigns": {
+    "total_sent": 2500,
+    "delivery_rate": 95.5,
+    "open_rate": 45.2,
+    "click_rate": 12.8,
+    "conversion_rate": 8.5,
+    "unsubscribe_rate": 1.2
+  },
+  "web_scraping": {
+    "total_records": 10000,
+    "records_this_month": 2500,
+    "success_rate": 98.5,
+    "average_time": "2.5 minutes",
+    "data_quality": 94.2
+  },
+  "revenue": {
+    "total_revenue": 25000,
+    "revenue_this_month": 8500,
+    "average_deal_size": 1250,
+    "clients_active": 25,
+    "retention_rate": 92.0
+  }
+}

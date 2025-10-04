@@ -1,0 +1,62 @@
+{
+  "timestamp": "2025-09-21T23:50:45.715692",
+  "video_title": "Complete Automation Business System - $30K+ Monthly Revenue Potential",
+  "duration": "8-10 minutes",
+  "target_audience": "Entrepreneurs, Business Owners, Digital Marketers",
+  "scenes": [
+    {
+      "scene": 1,
+      "title": "Introduction",
+      "duration": "30 seconds",
+      "content": "Welcome and value proposition"
+    },
+    {
+      "scene": 2,
+      "title": "Website Demo",
+      "duration": "90 seconds",
+      "content": "Live website demonstration"
+    },
+    {
+      "scene": 3,
+      "title": "Lead Generation Tool",
+      "duration": "60 seconds",
+      "content": "LinkedIn lead generator in action"
+    },
+    {
+      "scene": 4,
+      "title": "Web Scraping Demo",
+      "duration": "60 seconds",
+      "content": "Web scraper extracting data"
+    },
+    {
+      "scene": 5,
+      "title": "Email Marketing System",
+      "duration": "60 seconds",
+      "content": "Email campaign manager"
+    },
+    {
+      "scene": 6,
+      "title": "Social Media Automation",
+      "duration": "60 seconds",
+      "content": "Social proof generator"
+    },
+    {
+      "scene": 7,
+      "title": "Custom Automation",
+      "duration": "60 seconds",
+      "content": "Analytics dashboard and tools"
+    },
+    {
+      "scene": 8,
+      "title": "Revenue Potential",
+      "duration": "60 seconds",
+      "content": "Pricing and earnings breakdown"
+    },
+    {
+      "scene": 9,
+      "title": "Call to Action",
+      "duration": "120 seconds",
+      "content": "Final pitch and offer"
+    }
+  ]
+}
