@@ -1,13 +1,5 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
-import axios from 'axios';
 import toast from 'react-hot-toast';
-import { 
-  signUpWithEmail, 
-  signInWithEmail, 
-  signInWithGoogle, 
-  signOutUser, 
-  onAuthStateChange 
-} from '../firebase/auth';
 
 const AuthContext = createContext();
 
@@ -21,80 +13,87 @@ export const useAuth = () => {
 
 export const AuthProvider = ({ children }) => {
   const [user, setUser] = useState(null);
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(false);
 
-  // Listen to Firebase auth state changes
+  // Demo credentials
+  const demoCredentials = [
+    { email: 'demo@automation-platform.com', password: 'demo123', role: 'Admin', name: 'Demo Admin' },
+    { email: 'agency@demo.com', password: 'agency123', role: 'Agency', name: 'Marketing Agency' },
+    { email: 'consultant@demo.com', password: 'consultant123', role: 'Consultant', name: 'Business Consultant' }
+  ];
+
+  // Check for existing demo session
   useEffect(() => {
-    const unsubscribe = onAuthStateChange((user) => {
-      setUser(user);
-      setLoading(false);
-    });
-
-    return () => unsubscribe();
+    const demoUser = localStorage.getItem('demoUser');
+    if (demoUser) {
+      setUser(JSON.parse(demoUser));
+    }
+    setLoading(false);
   }, []);
 
   const login = async (email, password) => {
-    try {
-      const result = await signInWithEmail(email, password);
+    setLoading(true);
+    
+    // Simulate network delay
+    await new Promise(resolve => setTimeout(resolve, 1000));
+
+    // Check demo credentials
+    const validCredential = demoCredentials.find(cred => 
+      cred.email === email && cred.password === password
+    );
+
+    if (validCredential) {
+      const userData = {
+        email: validCredential.email,
+        role: validCredential.role,
+        name: validCredential.name,
+        loginTime: new Date().toISOString()
+      };
       
-      if (result.success) {
-        toast.success('Login successful!');
-        return { success: true };
-      } else {
-        toast.error(result.error);
-        return { success: false, error: result.error };
-      }
-    } catch (error) {
-      toast.error('Login failed');
-      return { success: false, error: 'Login failed' };
+      localStorage.setItem('demoUser', JSON.stringify(userData));
+      setUser(userData);
+      toast.success('Login successful!');
+      setLoading(false);
+      return { success: true };
+    } else {
+      toast.error('Invalid demo credentials');
+      setLoading(false);
+      return { success: false, error: 'Invalid demo credentials' };
     }
   };
 
   const register = async (userData) => {
-    try {
-      const result = await signUpWithEmail(userData.email, userData.password, userData);
-      
-      if (result.success) {
-        toast.success('Registration successful!');
-        return { success: true };
-      } else {
-        toast.error(result.error);
-        return { success: false, error: result.error };
-      }
-    } catch (error) {
-      toast.error('Registration failed');
-      return { success: false, error: 'Registration failed' };
-    }
+    setLoading(true);
+    
+    // Simulate network delay
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    
+    toast.error('Registration not available in demo mode');
+    setLoading(false);
+    return { success: false, error: 'Registration not available in demo mode' };
   };
 
   const loginWithGoogle = async () => {
-    try {
-      const result = await signInWithGoogle();
-      
-      if (result.success) {
-        toast.success('Google login successful!');
-        return { success: true };
-      } else {
-        toast.error(result.error);
-        return { success: false, error: result.error };
-      }
-    } catch (error) {
-      toast.error('Google login failed');
-      return { success: false, error: 'Google login failed' };
-    }
+    setLoading(true);
+    
+    // Simulate network delay
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    
+    toast.error('Google login not available in demo mode');
+    setLoading(false);
+    return { success: false, error: 'Google login not available in demo mode' };
   };
 
   const logout = async () => {
-    try {
-      await signOutUser();
-      toast.success('Logged out successfully');
-    } catch (error) {
-      toast.error('Logout failed');
-    }
+    localStorage.removeItem('demoUser');
+    setUser(null);
+    toast.success('Logged out successfully');
   };
 
   const updateUser = (userData) => {
-    setUser(prev => ({ ...prev, ...userData }));
+    const updatedUser = { ...user, ...userData };
+    setUser(updatedUser);
+    localStorage.setItem('demoUser', JSON.stringify(updatedUser));
   };
 
   const value = {
