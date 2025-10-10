@@ -374,10 +374,10 @@ const AffiliateSystem = () => {
         shareUrl = `https://x.com/intent/tweet?text=${encodedText}`;
         break;
       case 'linkedin':
-        shareUrl = `#
+        shareUrl = `https://www.linkedin.com/sharing/share-offsite/?url=${url}`;
         break;
       case 'facebook':
-        shareUrl = `#
+        shareUrl = `https://www.facebook.com/sharer/sharer.php?u=${url}`;
         break;
       default:
         return;
