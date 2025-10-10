@@ -201,7 +201,7 @@ I built this for my own use and proved the concept works. Now it's time for some
 ## 🎬 See It In Action
 
 ### **Live Demo Access:**
-🔗 **Website:** https://www.the-automatepro.info/
+🔗 **Website:** #/
 
 **Demo Credentials:**
 - Email: demo@automation-suite.com
@@ -379,7 +379,7 @@ I'm here to answer any questions about the platform, technical details, revenue 
 
 **Ways to reach me:**
 - 💬 Flippa messaging (fastest)
-- 📧 Email: [5856music@gmail.com]
+- 📧 Email: [support@example.com]
 - 📞 Schedule call: [If you want to offer this]
 
 **I respond within 2 hours during business hours.**

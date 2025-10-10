@@ -312,7 +312,7 @@ const Register = () => {
         transition={{ duration: 0.6 }}
       >
         <Logo>
-          <h1>🤖 AutomatePro</h1>
+          <h1>🤖 Automation Solutions</h1>
           <p>Create your account and start making money</p>
         </Logo>
 

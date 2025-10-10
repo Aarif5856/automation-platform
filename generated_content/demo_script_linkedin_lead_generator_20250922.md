@@ -19,5 +19,5 @@ In just 5 minutes, we have 50+ qualified prospects."
 Our client can now start their outreach campaign immediately with high-quality prospects."
 
 ## Call to Action (15 seconds)
-"Need qualified leads for your business? Contact us at info@the-automatepro.info. 
+"Need qualified leads for your business? Contact us at contact@example.com. 
 We can generate 500+ leads per month for your industry."

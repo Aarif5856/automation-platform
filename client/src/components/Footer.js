@@ -1,7 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import styled from 'styled-components';
-import { FiMail, FiPhone, FiMapPin, FiLinkedin, FiTwitter, FiGithub } from 'react-icons/fi';
+import { FiMail, FiPhone, FiMapPin, FiLinkedin, FiGithub } from 'react-icons/fi';
+import { FaXTwitter } from 'react-icons/fa6';
 
 const FooterContainer = styled.footer`
   background: #1f2937;
@@ -156,8 +157,8 @@ const Footer = () => {
             <SocialLink href="#" aria-label="LinkedIn">
               <FiLinkedin />
             </SocialLink>
-            <SocialLink href="#" aria-label="Twitter">
-              <FiTwitter />
+            <SocialLink href="#" aria-label="X">
+              <FaXTwitter />
             </SocialLink>
             <SocialLink href="#" aria-label="GitHub">
               <FiGithub />
@@ -191,15 +192,15 @@ const Footer = () => {
           <h3>Contact Info</h3>
           <ContactInfo>
             <FiMail />
-            <span>info@the-automatepro.info</span>
+            <span>contact@example.com</span>
           </ContactInfo>
           <ContactInfo>
             <FiPhone />
-            <span>+974 33288952</span>
+            <span>+1 (555) 123-4567</span>
           </ContactInfo>
           <ContactInfo>
             <FiMapPin />
-            <span>820 street 33 zone 29 building, Al Markhiya, Doha, Qatar</span>
+            <span>123 Business Avenue, New York, NY 10001</span>
           </ContactInfo>
           
           <h4 style={{ marginTop: '24px', marginBottom: '12px' }}>Newsletter</h4>

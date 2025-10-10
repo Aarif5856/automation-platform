@@ -19,7 +19,7 @@ Implemented LinkedIn lead generation and email marketing automation
 - **Revenue Generated:** $15,000
 
 ## Client Testimonial
-> "The AutomatePro helped us generate 500+ qualified leads in just 30 days. Our sales team is now closing 3x more deals. This is the best investment we've made this year!"
+> "The Automation Solutions helped us generate 500+ qualified leads in just 30 days. Our sales team is now closing 3x more deals. This is the best investment we've made this year!"
 > 
 > — TechStart Inc.
 

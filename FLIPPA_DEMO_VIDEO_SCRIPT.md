@@ -127,7 +127,7 @@
 
 **ACTION:** Show text overlay with:
 - Flippa Listing: [URL]
-- Demo Access: https://the-automatepro.info
+- Demo Access: #
 - Buy It Now: $7,500
 
 ---
@@ -295,7 +295,7 @@ I built a production-ready automation SaaS platform over 6 months. Now I'm selli
 
 🔗 LINKS:
 📦 Flippa Listing: [Your URL]
-🌐 Live Demo: https://www.the-automatepro.info
+🌐 Live Demo: #
 📧 Questions: [Your Email]
 
 ⏰ AUCTION DETAILS:

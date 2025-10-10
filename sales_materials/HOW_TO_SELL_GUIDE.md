@@ -82,7 +82,7 @@
 ### **3. DIRECT SALES PLATFORMS (Maximum Profit)**
 
 #### **Your Own Website**
-- **Platform**: https://www.the-automatepro.info/
+- **Platform**: #/
 - **Price**: $4,997
 - **Commission**: 0% (after setup)
 - **Pros**: Full control, maximum profit

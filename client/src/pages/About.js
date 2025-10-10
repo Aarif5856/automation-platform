@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { motion } from 'framer-motion';
-import { FiUsers, FiTarget, FiZap, FiAward, FiHeart, FiTrendingUp } from 'react-icons/fi';
+import { FiUsers, FiTarget, FiZap, FiAward, FiTrendingUp } from 'react-icons/fi';
 
 const AboutContainer = styled.div`
   padding: 120px 0 80px;
@@ -426,21 +426,21 @@ const About = () => {
 
   const testimonials = [
     {
-      quote: "AutomatePro transformed our lead generation completely. We went from 50 leads per month to over 2,000. The ROI was immediate and the setup was incredibly easy.",
+      quote: "Automation Solutions transformed our lead generation completely. We went from 50 leads per month to over 2,000. The ROI was immediate and the setup was incredibly easy.",
       name: "Sarah Johnson",
       company: "TechStart Inc.",
       avatar: "SJ",
       results: "400% increase in leads"
     },
     {
-      quote: "The email automation tools are game-changing. Our open rates increased by 60% and we're closing 3x more deals. The team at AutomatePro is incredibly supportive.",
+      quote: "The email automation tools are game-changing. Our open rates increased by 60% and we're closing 3x more deals. The team at Automation Solutions is incredibly supportive.",
       name: "Michael Chen",
       company: "GrowthCo",
       avatar: "MC",
       results: "300% more deals closed"
     },
     {
-      quote: "I was skeptical about automation, but AutomatePro proved me wrong. We've saved 20 hours per week and our revenue has grown by 150%. Best investment we've made.",
+      quote: "I was skeptical about automation, but Automation Solutions proved me wrong. We've saved 20 hours per week and our revenue has grown by 150%. Best investment we've made.",
       name: "Emily Rodriguez",
       company: "ScaleUp Solutions",
       avatar: "ER",
@@ -464,7 +464,7 @@ const About = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8 }}
           >
-            About AutomatePro
+            About Automation Solutions
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: 30 }}
@@ -491,7 +491,7 @@ const About = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
             viewport={{ once: true }}
           >
-            AutomatePro was born from a simple observation: most entrepreneurs have brilliant 
+            Automation Solutions was born from a simple observation: most entrepreneurs have brilliant 
             business ideas but lack the technical skills to automate their processes and 
             scale efficiently. We saw countless businesses struggling with manual tasks 
             that could easily be automated.
@@ -513,7 +513,7 @@ const About = () => {
             transition={{ duration: 0.8, delay: 0.6 }}
             viewport={{ once: true }}
           >
-            Today, AutomatePro has helped over 10,000 businesses automate their processes 
+            Today, Automation Solutions has helped over 10,000 businesses automate their processes 
             and generate millions in additional revenue. We're not just a software company 
             – we're your partners in building a successful, automated business.
           </motion.p>

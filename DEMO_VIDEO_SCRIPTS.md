@@ -45,7 +45,7 @@
 "If you want to start your own automation business, this complete system is available for purchase. Everything is included - the code, documentation, and business strategy."
 
 [270-300 seconds] END SCREEN
-"Subscribe for more automation tips! Contact info@the-automatepro.info for purchase details."
+"Subscribe for more automation tips! Contact contact@example.com for purchase details."
 ```
 
 ---
@@ -78,7 +78,7 @@
 "Our clients typically see 300% increase in lead generation within 30 days. The quality is outstanding and the time savings are incredible."
 
 [150-180 seconds] CALL TO ACTION
-"Ready to automate your lead generation? Contact us at info@the-automatepro.info for a free consultation."
+"Ready to automate your lead generation? Contact us at contact@example.com for a free consultation."
 
 [180-210 seconds] END SCREEN
 "Like and subscribe for more automation tips! #linkedin #leadgeneration #automation"
@@ -114,7 +114,7 @@
 "Our clients typically see 200% increase in email engagement. The personalization and automation make all the difference."
 
 [150-180 seconds] CALL TO ACTION
-"Ready to automate your email marketing? Contact us at info@the-automatepro.info for a free demo."
+"Ready to automate your email marketing? Contact us at contact@example.com for a free demo."
 
 [180-210 seconds] END SCREEN
 "Subscribe for more marketing automation tips! #emailmarketing #automation #business"
@@ -150,7 +150,7 @@
 "Our clients typically save 20+ hours per week on manual data collection. The ROI is incredible."
 
 [150-180 seconds] CALL TO ACTION
-"Need data extraction for your business? Contact us at info@the-automatepro.info for a free quote."
+"Need data extraction for your business? Contact us at contact@example.com for a free quote."
 
 [180-210 seconds] END SCREEN
 "Subscribe for more automation tips! #webscraping #automation #data"
@@ -186,7 +186,7 @@
 "Our clients love the simplicity. They can manage their entire automation strategy without any technical knowledge."
 
 [150-180 seconds] CALL TO ACTION
-"Ready to offer professional automation services? Contact us at info@the-automatepro.info for a free consultation."
+"Ready to offer professional automation services? Contact us at contact@example.com for a free consultation."
 
 [180-210 seconds] END SCREEN
 "Subscribe for more business automation tips! #dashboard #automation #business"
@@ -222,13 +222,13 @@
 "By month 3, we had 25 clients paying $497-$1,997 monthly. Total revenue: $30,000+ per month."
 
 [150-180 seconds] CLIENT TESTIMONIALS
-"Sarah Mitchell, CEO of TechStart Inc: 'The AutomatePro helped us increase our lead generation by 1000% in just 30 days.'"
+"Sarah Mitchell, CEO of TechStart Inc: 'The Automation Solutions helped us increase our lead generation by 1000% in just 30 days.'"
 
 [180-210 seconds] SYSTEM VALUE
 "This complete system includes everything: the tools, the website, the business strategy, and the support."
 
 [210-240 seconds] CALL TO ACTION
-"Ready to start your own automation business? Contact us at info@the-automatepro.info for purchase details."
+"Ready to start your own automation business? Contact us at contact@example.com for purchase details."
 
 [240-270 seconds] END SCREEN
 "Subscribe for more success stories! #automation #business #success"

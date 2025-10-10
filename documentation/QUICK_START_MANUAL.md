@@ -118,7 +118,7 @@ npm start
 ## **SUPPORT & RESOURCES**
 
 ### **📞 30-Day Free Support**
-- **Email Support**: support@the-automatepro.info
+- **Email Support**: support@#
 - **Video Calls**: 1-on-1 setup assistance
 - **Documentation**: Complete guides included
 - **Updates**: Free updates for 30 days
@@ -213,6 +213,6 @@ npm start
 
 **Ready to start your automation business? Let's make money! 🚀**
 
-**Support**: support@the-automatepro.info
-**Website**: https://www.the-automatepro.info/
+**Support**: support@#
+**Website**: #/
 **Price**: $4,997 (Limited Time Offer)

@@ -2,7 +2,7 @@
 
 ## LIVE DEMONSTRATION & PRODUCT VISUALS
 
-**Live Website**: https://www.the-automatepro.info/
+**Live Website**: #/
 
 ---
 
@@ -428,7 +428,7 @@ Deployment:
    - Support documentation
 
 3. **Business Assets**:
-   - Domain: the-automatepro.info
+   - Domain: #
    - Brand identity and materials
    - Customer database
    - Revenue history
@@ -453,7 +453,7 @@ Deployment:
 
 ### To Create Screenshot PDF:
 
-1. **Visit Live Site**: https://www.the-automatepro.info/
+1. **Visit Live Site**: #/
 2. **Take Screenshots** of each major feature
 3. **Capture Gumroad** listing page
 4. **Include TemplateMonster** submission status
@@ -485,6 +485,6 @@ Page 15: Asset Inventory
 ---
 
 **Document Purpose**: Visual demonstration of complete automation business system
-**Screenshots Source**: https://www.the-automatepro.info/
+**Screenshots Source**: #/
 **Additional Resources**: Gumroad and TemplateMonster listings
 **Date Prepared**: October 1, 2025

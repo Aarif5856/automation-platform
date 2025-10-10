@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
 import { motion } from 'framer-motion';
-import { FiMessageSquare, FiVideo, FiClock, FiUser, FiCheckCircle, FiSend, FiCalendar, FiHeadphones } from 'react-icons/fi';
+import { FiMessageSquare, FiVideo, FiCheckCircle, FiSend, FiCalendar, FiHeadphones } from 'react-icons/fi';
 
 const SupportContainer = styled.div`
   padding: 60px 0;

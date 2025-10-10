@@ -200,7 +200,7 @@ const VideoModal = ({ isOpen, onClose }) => {
 
   const handleYouTubeDemo = () => {
     // Open YouTube demo in new tab - Replace with your actual demo video
-    window.open('https://www.youtube.com/watch?v=your-demo-video-id', '_blank');
+    window.open('#', '_blank');
   };
 
   const handleGetStarted = () => {
@@ -235,7 +235,7 @@ const VideoModal = ({ isOpen, onClose }) => {
                 <div className="play-icon" onClick={handlePlayDemo}>
                   <FiPlay />
                 </div>
-                <h3>See AutomatePro in Action</h3>
+                <h3>See Automation Solutions in Action</h3>
                 <p>
                   Watch how our automation system can transform your business 
                   and help you generate $30K+ monthly revenue.
@@ -247,7 +247,7 @@ const VideoModal = ({ isOpen, onClose }) => {
                   </button>
                   <a 
                     className="demo-btn" 
-                    href="https://www.youtube.com/watch?v=your-demo-video-id" 
+                    href="#" 
                     target="_blank" 
                     rel="noopener noreferrer"
                   >
@@ -272,7 +272,7 @@ const VideoModal = ({ isOpen, onClose }) => {
                   </button>
                   <a 
                     className="demo-btn" 
-                    href="https://www.youtube.com/watch?v=your-demo-video-id" 
+                    href="#" 
                     target="_blank" 
                     rel="noopener noreferrer"
                   >

@@ -546,9 +546,9 @@ const Contact = () => {
                 </div>
                 <div className="content">
                   <h3>Email Us</h3>
-                  <p>hello@the-automatepro.info</p>
+                  <p>hello@#</p>
                   <p style={{ fontSize: '0.9rem', color: '#64748b', marginTop: '4px' }}>
-                    Support: support@the-automatepro.info
+                    Support: support@#
                   </p>
                 </div>
               </ContactItem>
@@ -559,7 +559,7 @@ const Contact = () => {
                 </div>
                 <div className="content">
                   <h3>Call Us</h3>
-                  <p>+974 33288952</p>
+                  <p>+1 (555) 123-4567</p>
                 </div>
               </ContactItem>
 
@@ -569,7 +569,7 @@ const Contact = () => {
                 </div>
                 <div className="content">
                   <h3>Visit Us</h3>
-                  <p>820 street 33 zone 29 building, Al Markhiya, Doha, Qatar</p>
+                  <p>123 Business Avenue, New York, NY 10001</p>
                 </div>
               </ContactItem>
             </motion.div>

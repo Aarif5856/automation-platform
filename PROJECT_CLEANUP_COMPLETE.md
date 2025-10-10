@@ -225,7 +225,7 @@ The `run_demo_tools.bat` file has been updated to work with the new structure:
 ## **📞 SUPPORT**
 
 If you need help with the demo video or sales process:
-- **Email**: support@the-automatepro.info
+- **Email**: support@#
 - **Response Time**: 4 hours (business days)
 - **Video Calls**: 1-on-1 assistance
 - **Documentation**: Complete guides included

@@ -149,7 +149,7 @@ python automation-templates/analytics-dashboard.py
 
 ### **Website Demo (30 seconds - 2 minutes)**
 ```
-"Let me show you the live website first. Here's the-automatepro.info - a professional automation business site that's already deployed and making money."
+"Let me show you the live website first. Here's # - a professional automation business site that's already deployed and making money."
 
 [Show website in browser]
 - Professional design

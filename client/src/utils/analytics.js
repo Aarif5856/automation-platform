@@ -24,8 +24,9 @@ class Analytics {
   }
 
   initGoogleAnalytics() {
-    // Replace with your actual GA4 measurement ID
-    const GA_MEASUREMENT_ID = 'G-XXXXXXXXXX';
+    // Replace with your actual GA4 measurement ID from Google Analytics
+    // For demo/sale purposes, this shows the structure - buyer should add their own GA4 ID
+    const GA_MEASUREMENT_ID = process.env.REACT_APP_GA_MEASUREMENT_ID || 'G-XXXXXXXXXX';
     
     // Load Google Analytics script
     const script = document.createElement('script');

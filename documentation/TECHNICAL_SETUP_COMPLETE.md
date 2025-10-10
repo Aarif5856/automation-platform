@@ -32,7 +32,7 @@
 - **Revenue Potential:** $300-500 per project
 
 ### 4. **Website Platform** ✅ **WORKING**
-- **URL:** https://the-automatepro.info
+- **URL:** #
 - **Status:** Live and responding
 - **Test Results:**
   - ✅ Website loads correctly
@@ -72,7 +72,7 @@ python linkedin-lead-generator.py
 **Revenue:** $500-1000 per project
 
 ### **4. Website Platform** ✅ **FULLY WORKING**
-- **URL:** https://the-automatepro.info
+- **URL:** #
 - **Features:** User registration, payments, dashboard
 - **Status:** ✅ **LIVE AND WORKING**
 - **Revenue:** $1000-5000 per project
@@ -128,7 +128,7 @@ python linkedin-lead-generator.py
 ### **✅ What You Can Do Right Now:**
 1. **Start offering web scraping services** - $300-500 per project
 2. **Set up email marketing campaigns** - $200-400 per setup
-3. **Use your professional website** - https://the-automatepro.info
+3. **Use your professional website** - #
 4. **Accept payments from clients** - Stripe integration working
 
 ### **📈 Revenue Potential:**
@@ -146,9 +146,9 @@ python linkedin-lead-generator.py
 
 ## 📞 **Support & Resources**
 
-- **Website:** https://the-automatepro.info
-- **Contact:** info@the-automatepro.info
-- **Phone:** +974 33288952
+- **Website:** #
+- **Contact:** contact@example.com
+- **Phone:** +1 (555) 123-4567
 - **Documentation:** Check `AUTOMATION_TESTING_GUIDE.md`
 
 ---

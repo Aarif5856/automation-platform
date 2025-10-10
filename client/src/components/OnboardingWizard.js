@@ -230,7 +230,7 @@ const OnboardingWizard = ({ isOpen, onClose, onComplete }) => {
 
   const steps = [
     {
-      title: "Welcome to The AutomatePro",
+      title: "Welcome to The Automation Solutions",
       description: "Let's set up your automation business in just a few steps",
       icon: <FiSettings />
     },

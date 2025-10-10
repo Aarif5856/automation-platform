@@ -18,7 +18,7 @@ router.post('/linkedin', async (req, res) => {
     await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36');
     
     // Navigate to LinkedIn search
-    const searchUrl = `https://www.linkedin.com/search/results/people/?keywords=${encodeURIComponent(keywords)}&origin=GLOBAL_SEARCH_HEADER`;
+    const searchUrl = `https://www.linkedin.com/search/results/people/?keywords=${encodeURIComponent(keywords)}&location=${encodeURIComponent(location)}`;
     await page.goto(searchUrl, { waitUntil: 'networkidle2' });
     
     // Wait for results to load

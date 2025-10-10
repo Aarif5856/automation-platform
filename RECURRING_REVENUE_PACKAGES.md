@@ -233,7 +233,7 @@
 - **Package:** Lead Generation Retainer ($497/month)
 - **Results:** 500 leads/month, 15% conversion rate
 - **ROI:** 300% return on investment
-- **Testimonial:** "The AutomatePro transformed our lead generation. We went from 50 leads/month to 500+ with better quality."
+- **Testimonial:** "The Automation Solutions transformed our lead generation. We went from 50 leads/month to 500+ with better quality."
 
 ### **Client B: Marketing Agency**
 - **Package:** Full Automation Suite ($1,997/month)

@@ -19,7 +19,7 @@ Set up complete automation suite with CRM integration
 - **Revenue Generated:** $25,000
 
 ## Client Testimonial
-> "We went from 100 leads/month to 1000+ with better quality. Our clients are thrilled with the results. The AutomatePro is a game-changer!"
+> "We went from 100 leads/month to 1000+ with better quality. Our clients are thrilled with the results. The Automation Solutions is a game-changer!"
 > 
 > — GrowthCo Agency
 

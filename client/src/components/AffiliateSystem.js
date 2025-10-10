@@ -324,10 +324,10 @@ const AffiliateSystem = () => {
   });
 
   const [referralLinks] = useState({
-    general: 'https://the-automatepro.info/ref/yourcode',
-    starter: 'https://the-automatepro.info/ref/starter/yourcode',
-    pro: 'https://the-automatepro.info/ref/pro/yourcode',
-    enterprise: 'https://the-automatepro.info/ref/enterprise/yourcode'
+    general: '#/ref/yourcode',
+    starter: '#/ref/starter/yourcode',
+    pro: '#/ref/pro/yourcode',
+    enterprise: '#/ref/enterprise/yourcode'
   });
 
   const [affiliates] = useState([
@@ -364,20 +364,20 @@ const AffiliateSystem = () => {
   };
 
   const shareToSocial = (platform) => {
-    const text = `Join the AutomatePro affiliate program and earn 30% commission! ${referralLinks.general}`;
+    const text = `Join the Automation Solutions affiliate program and earn 30% commission! ${referralLinks.general}`;
     const url = encodeURIComponent(referralLinks.general);
     const encodedText = encodeURIComponent(text);
     
     let shareUrl = '';
     switch (platform) {
-      case 'twitter':
-        shareUrl = `https://twitter.com/intent/tweet?text=${encodedText}`;
+      case 'x':
+        shareUrl = `https://x.com/intent/tweet?text=${encodedText}`;
         break;
       case 'linkedin':
-        shareUrl = `https://www.linkedin.com/sharing/share-offsite/?url=${url}`;
+        shareUrl = `#
         break;
       case 'facebook':
-        shareUrl = `https://www.facebook.com/sharer/sharer.php?u=${url}`;
+        shareUrl = `#
         break;
       default:
         return;
@@ -529,8 +529,8 @@ const AffiliateSystem = () => {
           </div>
 
           <div className="social-share">
-            <button onClick={() => shareToSocial('twitter')}>
-              <FiShare2 /> Twitter
+            <button onClick={() => shareToSocial('x')}>
+              <FiShare2 /> X
             </button>
             <button onClick={() => shareToSocial('linkedin')}>
               <FiShare2 /> LinkedIn

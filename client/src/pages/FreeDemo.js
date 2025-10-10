@@ -299,7 +299,7 @@ const FreeDemo = () => {
                 </div>
               </div>
               <p className="text-gray-700">
-                "The free demo convinced me to work with The AutomatePro. 
+                "The free demo convinced me to work with The Automation Solutions. 
                 The leads were so good that we converted 20% of them into customers!"
               </p>
               <div className="flex text-yellow-400 mt-4">

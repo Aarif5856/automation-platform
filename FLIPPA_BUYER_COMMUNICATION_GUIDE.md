@@ -58,7 +58,7 @@ Want to see the analytics dashboard?
 Honest answer: I haven't marketed it for revenue yet because I've focused on development and proving the technology works.
 
 Here's what I CAN show you:
-• Live working demo (https://the-automatepro.info)
+• Live working demo (#)
 • 200+ hours of development time
 • Production-ready code
 • Complete documentation
@@ -161,7 +161,7 @@ When would you want to start if you purchased?
 Absolutely! Three ways to see it in action:
 
 **1. Live Demo (Immediate):**
-🔗 https://www.the-automatepro.info
+🔗 #
 📧 Demo login: demo@automation-suite.com
 🔑 Password: demo123
 
@@ -584,7 +584,7 @@ Saw you're watching my automation platform listing on Flippa. Thanks for the int
 I wanted to reach out directly in case you have any questions.
 
 **Quick details:**
-• Live demo: https://the-automatepro.info (demo@automation-suite.com / demo123)
+• Live demo: # (demo@automation-suite.com / demo123)
 • Current bid: $[X]
 • Reserve: $5,000
 • Buy It Now: $7,500
@@ -671,7 +671,7 @@ If reserve isn't met, auction could end without a winner. But I'm motivated to s
 • I'm more flexible before auction ends
 
 **Want to see more?**
-• Demo: https://the-automatepro.info
+• Demo: #
 • Call: Schedule a walkthrough
 • Materials: I can send detailed docs
 

@@ -45,7 +45,7 @@
 ## 🚀 **CURRENT STATUS: FULLY OPERATIONAL**
 
 ### **Website Status**: ✅ **LIVE AND WORKING**
-- **URL**: https://www.the-automatepro.info/
+- **URL**: #/
 - **Status**: 200 OK - Fully accessible
 - **Server**: Running without errors
 - **Database**: Graceful fallback implemented

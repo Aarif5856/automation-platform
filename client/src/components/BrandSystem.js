@@ -229,7 +229,7 @@ export const BrandLogo = ({ size = 'md', showText = true }) => {
       <div className="logo-icon" style={{ width: sizes[size]?.icon, height: sizes[size]?.icon }}>
         🤖
       </div>
-      {showText && <span className="logo-text">AutomatePro</span>}
+      {showText && <span className="logo-text">Automation Solutions</span>}
     </LogoContainer>
   );
 };
@@ -283,7 +283,7 @@ export const BrandGuidelines = () => {
         marginBottom: '32px',
         textAlign: 'center'
       }}>
-        AutomatePro Brand Guidelines
+        Automation Solutions Brand Guidelines
       </h2>
 
       <ColorPalette>

@@ -195,9 +195,9 @@
 
 **Ready to start your automation business?**
 
-- **Email:** info@the-automatepro.info
-- **Website:** https://the-automatepro.info
-- **Phone:** +974 33288952
+- **Email:** contact@example.com
+- **Website:** #
+- **Phone:** +1 (555) 123-4567
 
 **Choose your package and start earning today!**
 

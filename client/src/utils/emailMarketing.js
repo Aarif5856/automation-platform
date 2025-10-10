@@ -74,8 +74,8 @@ class EmailMarketing {
             }
           },
           settings: {
-            subject_line: `Welcome to AutomatePro, ${firstName}! 🚀`,
-            from_name: 'AutomatePro Team',
+            subject_line: `Welcome to Automation Solutions, ${firstName}! 🚀`,
+            from_name: 'Automation Solutions Team',
             reply_to: 'hello@autobiz.com',
             to_name: firstName || 'Valued Customer',
           },
@@ -84,7 +84,7 @@ class EmailMarketing {
             id: 'welcome-template-id', // Replace with your template ID
             sections: {
               main_content: `
-                <h1>Welcome to AutomatePro! 🎉</h1>
+                <h1>Welcome to Automation Solutions! 🎉</h1>
                 <p>Hi ${firstName || 'there'},</p>
                 <p>Thank you for joining our community of successful entrepreneurs!</p>
                 <p>Here's what you can expect:</p>
@@ -95,7 +95,7 @@ class EmailMarketing {
                   <li>🛠️ Free tools and resources</li>
                 </ul>
                 <p>Ready to start automating? <a href="${window.location.origin}/pricing">Check out our plans</a></p>
-                <p>Best regards,<br>The AutomatePro Team</p>
+                <p>Best regards,<br>The Automation Solutions Team</p>
               `
             }
           }
@@ -143,8 +143,8 @@ class EmailMarketing {
             }
           },
           settings: {
-            subject_line: 'Don\'t miss out! Complete your AutomatePro purchase 🛒',
-            from_name: 'AutomatePro Team',
+            subject_line: 'Don\'t miss out! Complete your Automation Solutions purchase 🛒',
+            from_name: 'Automation Solutions Team',
             reply_to: 'hello@autobiz.com',
           },
           content_type: 'template',
@@ -160,7 +160,7 @@ class EmailMarketing {
                 ${discountCode ? `<p><strong>Use code ${discountCode} for 10% off!</strong></p>` : ''}
                 <p><a href="${window.location.origin}/checkout" style="background: #3b82f6; color: white; padding: 12px 24px; text-decoration: none; border-radius: 8px;">Complete Purchase</a></p>
                 <p>Questions? Reply to this email and we'll help!</p>
-                <p>Best regards,<br>The AutomatePro Team</p>
+                <p>Best regards,<br>The Automation Solutions Team</p>
               `
             }
           }
@@ -209,7 +209,7 @@ class EmailMarketing {
           },
           settings: {
             subject_line: `Upgrade to ${upsellPlan.name} and unlock more features! 🚀`,
-            from_name: 'AutomatePro Team',
+            from_name: 'Automation Solutions Team',
             reply_to: 'hello@autobiz.com',
           },
           content_type: 'template',
@@ -226,7 +226,7 @@ class EmailMarketing {
                 <p><strong>Special upgrade price: $${upsellPlan.price}/month</strong></p>
                 <p><a href="${window.location.origin}/pricing?upgrade=${upsellPlan.id}" style="background: #3b82f6; color: white; padding: 12px 24px; text-decoration: none; border-radius: 8px;">Upgrade Now</a></p>
                 <p>Questions? Reply to this email and we'll help!</p>
-                <p>Best regards,<br>The AutomatePro Team</p>
+                <p>Best regards,<br>The Automation Solutions Team</p>
               `
             }
           }

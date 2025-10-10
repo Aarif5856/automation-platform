@@ -7,7 +7,7 @@
 ## **✅ WHAT YOU HAVE NOW**
 
 ### **1. Working Automation System**
-- ✅ **Live Website**: https://www.the-automatepro.info/
+- ✅ **Live Website**: #/
 - ✅ **All Tools Working**: Tested and functional
 - ✅ **Demo Data Generated**: Ready for screen recording
 - ✅ **Batch File**: `run_demo_tools.bat` (one-click demo)
@@ -77,7 +77,7 @@ cd C:\Users\USER\Desktop\automation
 
 ### **Website Demo (30 seconds - 2 minutes)**
 ```
-"Let me show you the live website first. Here's the-automatepro.info - a professional automation business site that's already deployed and making money."
+"Let me show you the live website first. Here's # - a professional automation business site that's already deployed and making money."
 
 [Show website in browser]
 - Professional design
@@ -262,7 +262,7 @@ python automation-templates/analytics-dashboard.py
 
 ### **What Makes This Special**
 - ✅ **Live Website**: Already deployed and working
-- ✅ **Domain Included**: the-automatepro.info
+- ✅ **Domain Included**: #
 - ✅ **All Tools Working**: Tested and functional
 - ✅ **Demo Data**: Ready for screen recording
 - ✅ **Sales Materials**: Complete marketing package
@@ -340,7 +340,7 @@ python automation-templates/analytics-dashboard.py
 ## **📞 SUPPORT**
 
 ### **If You Need Help**
-- **Email**: support@the-automatepro.info
+- **Email**: support@#
 - **Response Time**: 4 hours (business days)
 - **Video Calls**: 1-on-1 setup assistance
 - **Documentation**: Complete guides included

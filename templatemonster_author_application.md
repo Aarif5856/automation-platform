@@ -4,7 +4,7 @@
 
 ### **Personal Information:**
 - **Name:** [Your Name]
-- **Portfolio:** https://www.the-automatepro.info/
+- **Portfolio:** #/
 - **Email:** [Your Email]
 - **Location:** [Your Location]
 - **Specialization:** Full-Stack Development, Automation Systems, SaaS Platforms
@@ -40,7 +40,7 @@
 ### **Portfolio & Experience:**
 
 **1. Complete Automation Business System**
-- **Live Demo:** https://www.the-automatepro.info/
+- **Live Demo:** #/
 - **Technology Stack:** React.js + Node.js + MongoDB + Python
 - **Features:** LinkedIn Lead Generation, Email Automation, Web Scraping, CRM Integration
 - **Revenue Model:** $996-$2,696 pricing tiers

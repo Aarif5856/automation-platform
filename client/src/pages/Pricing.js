@@ -531,13 +531,13 @@ const Pricing = () => {
 
         <TrustSection>
           <h2>Trusted by 10,000+ Businesses</h2>
-          <p>Join companies that are already scaling with AutomatePro</p>
+          <p>Join companies that are already scaling with Automation Solutions</p>
           <div className="logos">
             <div className="logo">TechCorp</div>
             <div className="logo">StartupXYZ</div>
             <div className="logo">GrowthCo</div>
             <div className="logo">ScaleUp</div>
-            <div className="logo">AutomatePro</div>
+            <div className="logo">Automation Solutions</div>
           </div>
         </TrustSection>
 
@@ -545,7 +545,7 @@ const Pricing = () => {
           <h2>Success Stories</h2>
           <div className="testimonial">
             <div className="quote">
-              "AutomatePro helped us generate $25k in revenue in just 3 months. 
+              "Automation Solutions helped us generate $25k in revenue in just 3 months. 
               The LinkedIn lead generation tool is absolutely game-changing!"
             </div>
             <div className="author">Sarah Johnson</div>

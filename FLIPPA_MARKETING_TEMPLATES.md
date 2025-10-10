@@ -26,7 +26,7 @@ Selling for: $5,000
 
 Perfect for agencies, developers, or entrepreneurs wanting to offer automation services.
 
-Live demo: https://www.the-automatepro.info
+Live demo: #
 Flippa listing: [Your URL]
 
 Questions? Drop them in comments or DM me.
@@ -52,7 +52,7 @@ What's included: Everything. Source code, docs, support.
 
 This is a real business opportunity for 1/6th the development cost.
 
-See it in action: https://www.the-automatepro.info
+See it in action: #
 Flippa auction: [Your URL]
 
 Who's serious about automation services? 🚀
@@ -86,7 +86,7 @@ Someone's getting an incredible deal on:
 
 If you've ever wanted to offer automation services but don't know how to code, this is your shortcut.
 
-Demo: https://www.the-automatepro.info
+Demo: #
 Details: [Flippa URL]
 
 Let me know if you have questions 👇
@@ -127,7 +127,7 @@ What you get:
 Perfect for: Agencies, developers, entrepreneurs
 
 Check it out: [Flippa URL]
-Live demo: https://www.the-automatepro.info
+Live demo: #
 
 #SaaS #Automation #Development #BusinessForSale #Flippa
 ```
@@ -158,7 +158,7 @@ The platform is complete:
 
 I'm selling for $5,000 (88% discount from dev cost)
 
-See demo: https://www.the-automatepro.info
+See demo: #
 Flippa listing: [Your URL]
 
 Who's building an automation business? 🚀
@@ -199,7 +199,7 @@ Hey everyone! I built a complete automation SaaS platform over the past 6 months
 • My price: $5,000 (Buy It Now: $7,500)
 • Your potential revenue: $5K-15K/month
 
-**Live demo:** https://www.the-automatepro.info
+**Live demo:** #
 **Flippa listing:** [Your URL]
 
 Happy to answer questions! Comment or DM me.
@@ -219,7 +219,7 @@ Worth $30K+ in dev costs. Complete source code + docs + support.
 
 Perfect for agencies or entrepreneurs.
 
-Demo: https://www.the-automatepro.info
+Demo: #
 Details: [Flippa URL]
 
 Questions? Ask me!
@@ -241,7 +241,7 @@ Questions? Ask me!
 
 Perfect for agencies/entrepreneurs
 
-Demo: https://the-automatepro.info
+Demo: #
 Listing: [Flippa URL]
 
 #SaaS #Automation #Flippa
@@ -309,7 +309,7 @@ Here's what you get:
 Moving to new projects. This is complete and ready to generate revenue for the right buyer.
 
 8/ Check it out:
-Demo: https://the-automatepro.info
+Demo: #
 Flippa: [Your URL]
 
 Questions? Reply here or DM me!
@@ -348,7 +348,7 @@ The platform is production-ready:
 
 I'm selling it on Flippa for $5,000 ($30K+ development value).
 
-Live demo: https://www.the-automatepro.info
+Live demo: #
 Flippa listing: [URL]
 
 Thought this might be relevant for [Company]. Happy to answer questions.
@@ -388,7 +388,7 @@ Why you might care:
 
 I spent 200+ hours building this. Selling for $5,000 ($30K+ value).
 
-Demo: https://www.the-automatepro.info
+Demo: #
 Code quality: Professional, documented, scalable
 
 Flippa listing: [URL]
@@ -437,7 +437,7 @@ Revenue potential:
 
 I'm selling on Flippa for $5,000 (cost to build: $30K+)
 
-Live demo: https://www.the-automatepro.info
+Live demo: #
 Details: [Flippa URL]
 
 Perfect if you want to skip the development phase and go straight to marketing/sales.
@@ -460,7 +460,7 @@ Following up on my previous email about the automation platform.
 Quick answers to common questions:
 
 Q: Is it really production-ready?
-A: Yes. Demo available at https://the-automatepro.info
+A: Yes. Demo available at #
 
 Q: How long to set up?
 A: 1-2 hours installation, 30-day support included
@@ -524,7 +524,7 @@ Moving to new projects. This is complete and ready to generate revenue.
 - Selling for: $5,000
 - Potential revenue: $5K-15K/month
 
-**Live demo:** https://www.the-automatepro.info
+**Live demo:** #
 **Flippa listing:** [URL]
 
 Perfect for agencies, developers, or entrepreneurs.
@@ -563,7 +563,7 @@ Tech: React.js + Node.js + Python (production-ready)
 - Entrepreneurs better at sales than coding
 - Anyone in marketing automation space
 
-**Demo:** https://www.the-automatepro.info
+**Demo:** #
 **Listing:** [Flippa URL]
 
 AMA in comments!
@@ -626,7 +626,7 @@ After 6 months of development, I've built a complete automation SaaS platform an
 
 🔗 LINKS:
 📦 Flippa Listing: [Your URL]
-🌐 Live Demo: https://www.the-automatepro.info
+🌐 Live Demo: #
 📧 Questions: [Your Email]
 📄 Full Details: [Flippa URL]
 
@@ -721,7 +721,7 @@ Twitter: [Your Twitter]
 ### When Someone Comments:
 
 **Comment:** "Is this still available?"
-**Response:** "Yes! Auction is live with [X] days remaining. Current bid is $[Y]. Check out the demo at https://the-automatepro.info and let me know if you have questions!"
+**Response:** "Yes! Auction is live with [X] days remaining. Current bid is $[Y]. Check out the demo at # and let me know if you have questions!"
 
 **Comment:** "Seems expensive"
 **Response:** "Fair concern! Development cost would be $30K+ if you hired developers. At $5K you're getting 85% off. Plus I include 30 days of support. What would make it worth it for you?"
@@ -730,7 +730,7 @@ Twitter: [Your Twitter]
 **Response:** "Great question! Most buyers break even in 30-60 days. If you charge just 3 clients $1,000/month, you're at $3K/month = $36K/year. ROI: 720% in year 1. Want to see the revenue calculator?"
 
 **Comment:** "Can I see the code?"
-**Response:** "Absolutely! Demo site is live at https://the-automatepro.info. For serious buyers, I can provide a detailed code structure overview. DM me!"
+**Response:** "Absolutely! Demo site is live at #. For serious buyers, I can provide a detailed code structure overview. DM me!"
 
 ### When Someone DMs:
 

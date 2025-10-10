@@ -62,7 +62,7 @@ NEW: "Complete Automation SaaS Platform - $30K+ Dev Value - React + Node + Pytho
 **Step 3: Add Demo Access (5 minutes)**
 Add this prominently at top of listing:
 ```
-🎯 LIVE DEMO: https://www.the-automatepro.info
+🎯 LIVE DEMO: #
 📧 Login: demo@automation-suite.com
 🔑 Password: demo123
 ```
@@ -145,7 +145,7 @@ Set Buy It Now at $7,500 (makes reserve seem reasonable)
 5. Web scraper interface
 
 **How:**
-1. Go to https://the-automatepro.info
+1. Go to #
 2. Login with demo credentials
 3. Click through each feature
 4. Press Windows + Shift + S (screenshot tool)
@@ -301,7 +301,7 @@ Set Buy It Now at $7,500 (makes reserve seem reasonable)
 ```
 Hi! Thanks for your interest.
 
-Demo: https://the-automatepro.info (demo@automation-suite.com / demo123)
+Demo: # (demo@automation-suite.com / demo123)
 
 Current bid: $[X]
 Reserve: $[5,000 or your new amount]

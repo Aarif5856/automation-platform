@@ -135,7 +135,7 @@ automation-business-template/
 
 ## 🎯 **Competitive Advantages:**
 
-✅ **Live Demo Available** - https://www.the-automatepro.info/
+✅ **Live Demo Available** - #/
 ✅ **Complete Business System** - Not just design, but functionality
 ✅ **Revenue-Generating** - Templates that actually make money
 ✅ **Professional Quality** - Enterprise-grade code and design

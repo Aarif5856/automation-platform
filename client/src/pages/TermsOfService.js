@@ -134,12 +134,12 @@ const TermsOfService = () => {
           <Content>
             <h2>1. Acceptance of Terms</h2>
             <p>
-              By accessing and using AutomatePro ("the Service"), you accept and agree to be bound by the terms and provision of this agreement. If you do not agree to abide by the above, please do not use this service.
+              By accessing and using Automation Solutions ("the Service"), you accept and agree to be bound by the terms and provision of this agreement. If you do not agree to abide by the above, please do not use this service.
             </p>
 
             <h2>2. Description of Service</h2>
             <p>
-              AutomatePro provides automation services including but not limited to:
+              Automation Solutions provides automation services including but not limited to:
             </p>
             <ul>
               <li>Lead generation and management</li>
@@ -197,7 +197,7 @@ const TermsOfService = () => {
 
             <h2>7. Intellectual Property</h2>
             <p>
-              The Service and its original content, features, and functionality are owned by AutomatePro and are protected by international copyright, trademark, patent, trade secret, and other intellectual property laws.
+              The Service and its original content, features, and functionality are owned by Automation Solutions and are protected by international copyright, trademark, patent, trade secret, and other intellectual property laws.
             </p>
 
             <h2>8. Service Availability</h2>
@@ -207,7 +207,7 @@ const TermsOfService = () => {
 
             <h2>9. Limitation of Liability</h2>
             <p>
-              In no event shall AutomatePro be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses.
+              In no event shall Automation Solutions be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses.
             </p>
 
             <h2>10. Termination</h2>

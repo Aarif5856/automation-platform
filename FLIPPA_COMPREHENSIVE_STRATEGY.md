@@ -179,7 +179,7 @@ Moving to new projects. This is complete and ready to generate revenue for the r
 
 ## ⚡ Demo Access:
 
-**Live Demo:** https://www.the-automatepro.info/
+**Live Demo:** #/
 **Demo Video:** [Link to YouTube demo]
 
 ## 💡 Quick ROI Path:
@@ -475,7 +475,7 @@ You could literally be earning revenue by the end of week 1."
 **✅ Answer:**
 "Absolutely! Here are 3 ways to see it in action:
 
-1. **Live Demo:** https://www.the-automatepro.info/
+1. **Live Demo:** #/
    (Demo credentials: demo@automation-suite.com / demo123)
 
 2. **Video Walkthrough:** [YouTube link]
@@ -664,7 +664,7 @@ Before transfer, ensure:
 
 ## Optional Add-ons (Negotiate):
 
-- [ ] Domain transfer: the-automatepro.info (+$100)
+- [ ] Domain transfer: # (+$100)
 - [ ] Gumroad listing transfer (+$200)
 - [ ] 1-hour setup call (+$150)
 - [ ] Custom branding service (+$300)

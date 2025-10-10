@@ -233,7 +233,7 @@ const WebScraping = () => {
                 </div>
               </div>
               <p className="text-gray-700">
-                "The AutomatePro helped us scrape 5,000+ product listings from our competitors in just 2 days. 
+                "The Automation Solutions helped us scrape 5,000+ product listings from our competitors in just 2 days. 
                 This data gave us a huge competitive advantage in pricing and product development."
               </p>
               <div className="flex text-yellow-400 mt-4">
@@ -252,7 +252,7 @@ const WebScraping = () => {
               </div>
               <p className="text-gray-700">
                 "We needed to extract contact information from 50+ industry websites. 
-                The AutomatePro delivered clean, organized data that we could immediately use for our outreach campaigns."
+                The Automation Solutions delivered clean, organized data that we could immediately use for our outreach campaigns."
               </p>
               <div className="flex text-yellow-400 mt-4">
                 ★★★★★

@@ -95,7 +95,7 @@ Primary Revenue Streams:
 
 ### **What's Included (Lead with Value):**
 1. **Complete Source Code** ($40,000+ development value)
-2. **Live Website** (https://www.the-automatepro.info/)
+2. **Live Website** (#/)
 3. **Marketplace Presence** (Gumroad, TemplateMonster)
 4. **Customer Database** (existing relationships)
 5. **Business Materials** (marketing, sales, documentation)

@@ -49,7 +49,7 @@ const DEMO_CONFIG = {
       phone: '+1-555-0123',
       industry: 'Technology',
       company_size: '51-200',
-      linkedin_url: 'https://linkedin.com/in/sarah-johnson-demo',
+      linkedin_url: '#',
       status: 'qualified',
       source: 'LinkedIn',
       created_at: new Date().toISOString()
@@ -63,7 +63,7 @@ const DEMO_CONFIG = {
       phone: '+1-555-0124',
       industry: 'Marketing',
       company_size: '11-50',
-      linkedin_url: 'https://linkedin.com/in/mike-chen-demo',
+      linkedin_url: '#',
       status: 'contacted',
       source: 'LinkedIn',
       created_at: new Date().toISOString()
@@ -77,7 +77,7 @@ const DEMO_CONFIG = {
       phone: '+1-555-0125',
       industry: 'Sales',
       company_size: '201-500',
-      linkedin_url: 'https://linkedin.com/in/lisa-rodriguez-demo',
+      linkedin_url: '#',
       status: 'interested',
       source: 'LinkedIn',
       created_at: new Date().toISOString()
@@ -91,7 +91,7 @@ const DEMO_CONFIG = {
       phone: '+1-555-0126',
       industry: 'Consulting',
       company_size: '1-10',
-      linkedin_url: 'https://linkedin.com/in/david-thompson-demo',
+      linkedin_url: '#',
       status: 'qualified',
       source: 'LinkedIn',
       created_at: new Date().toISOString()
@@ -105,7 +105,7 @@ const DEMO_CONFIG = {
       phone: '+1-555-0127',
       industry: 'E-commerce',
       company_size: '51-200',
-      linkedin_url: 'https://linkedin.com/in/jennifer-lee-demo',
+      linkedin_url: '#',
       status: 'contacted',
       source: 'LinkedIn',
       created_at: new Date().toISOString()
@@ -119,7 +119,7 @@ const DEMO_CONFIG = {
       phone: '+1-555-0128',
       industry: 'Technology',
       company_size: '201-500',
-      linkedin_url: 'https://linkedin.com/in/robert-wilson-demo',
+      linkedin_url: '#',
       status: 'qualified',
       source: 'LinkedIn',
       created_at: new Date().toISOString()
@@ -133,7 +133,7 @@ const DEMO_CONFIG = {
       phone: '+1-555-0129',
       industry: 'Marketing',
       company_size: '11-50',
-      linkedin_url: 'https://linkedin.com/in/maria-garcia-demo',
+      linkedin_url: '#',
       status: 'interested',
       source: 'LinkedIn',
       created_at: new Date().toISOString()
@@ -147,7 +147,7 @@ const DEMO_CONFIG = {
       phone: '+1-555-0130',
       industry: 'Sales',
       company_size: '51-200',
-      linkedin_url: 'https://linkedin.com/in/james-anderson-demo',
+      linkedin_url: '#',
       status: 'contacted',
       source: 'LinkedIn',
       created_at: new Date().toISOString()
@@ -161,7 +161,7 @@ const DEMO_CONFIG = {
       phone: '+1-555-0131',
       industry: 'Business Development',
       company_size: '11-50',
-      linkedin_url: 'https://linkedin.com/in/amanda-taylor-demo',
+      linkedin_url: '#',
       status: 'qualified',
       source: 'LinkedIn',
       created_at: new Date().toISOString()
@@ -175,7 +175,7 @@ const DEMO_CONFIG = {
       phone: '+1-555-0132',
       industry: 'Startups',
       company_size: '1-10',
-      linkedin_url: 'https://linkedin.com/in/kevin-brown-demo',
+      linkedin_url: '#',
       status: 'interested',
       source: 'LinkedIn',
       created_at: new Date().toISOString()

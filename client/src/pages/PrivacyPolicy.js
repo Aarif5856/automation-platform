@@ -164,7 +164,7 @@ const PrivacyPolicy = () => {
           <Content>
             <h2>1. Introduction</h2>
             <p>
-              AutomatePro ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our automation services.
+              Automation Solutions ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our automation services.
             </p>
 
             <h2>2. Information We Collect</h2>

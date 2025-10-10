@@ -7,7 +7,7 @@
 ## **📞 SUPPORT CHANNELS**
 
 ### **Primary Support**
-- **Email**: support@the-automatepro.info
+- **Email**: support@#
 - **Response Time**: Within 4 hours (business days)
 - **Priority**: High (dedicated support team)
 
@@ -287,7 +287,7 @@
 ## **📞 CONTACT INFORMATION**
 
 ### **Support Team**
-- **Email**: support@the-automatepro.info
+- **Email**: support@#
 - **Phone**: +1 (555) 123-4567
 - **Hours**: Monday-Friday, 9 AM - 6 PM EST
 - **Emergency**: 24/7 for critical issues
@@ -335,7 +335,7 @@
 
 **Ready to get the support you need to succeed? Let's build your automation business together! 🚀**
 
-**Support Email**: support@the-automatepro.info
+**Support Email**: support@#
 **Response Time**: 4 hours or less
 **Satisfaction**: 100% guaranteed
 **Success**: Your success is our success

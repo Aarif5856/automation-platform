@@ -2,10 +2,10 @@
 export const BUSINESS_CONFIG = {
   // Official Business Email
   email: {
-    support: 'support@the-automatepro.info',
-    sales: 'sales@the-automatepro.info',
-    billing: 'billing@the-automatepro.info',
-    general: 'hello@the-automatepro.info'
+    support: 'support@#',
+    sales: 'sales@#',
+    billing: 'billing@#',
+    general: 'hello@#'
   },
   
   // PayPal Configuration
@@ -18,7 +18,7 @@ export const BUSINESS_CONFIG = {
   // Business Information
   business: {
     name: 'Automation Pro',
-    website: 'https://the-automatepro.info',
+    website: '#',
     phone: '+1 (555) 123-4567',
     address: {
       street: '123 Business Ave',
@@ -38,7 +38,7 @@ export const BUSINESS_CONFIG = {
     },
     email: {
       confirmation: 'We\'ve sent you a confirmation email with your order details and next steps.',
-      support: 'Need help? Contact our support team at support@the-automatepro.info'
+      support: 'Need help? Contact our support team at support@#'
     }
   }
 };

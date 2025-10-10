@@ -328,7 +328,7 @@ const Success = () => {
           <div className="contact-methods">
             <div className="contact-item">
               <FiMail />
-              hello@the-automatepro.info
+              hello@#
             </div>
             <div className="contact-item">
               <FiCheckCircle />

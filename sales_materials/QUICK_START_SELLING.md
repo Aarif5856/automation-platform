@@ -43,7 +43,7 @@
 - **Revenue**: $25,000-50,000
 
 ### **2. Your Own Website**
-- **URL**: https://www.the-automatepro.info/
+- **URL**: #/
 - **Setup Time**: 2 hours
 - **Expected Sales**: 10-20 in first month
 - **Revenue**: $50,000-100,000
@@ -89,8 +89,8 @@
 
 This isn't just software - it's a turnkey business opportunity with a live website, working tools, and proven revenue potential.
 
-✅ LIVE WEBSITE: https://www.the-automatepro.info/ (included)
-✅ DOMAIN NAME: the-automatepro.info (included)
+✅ LIVE WEBSITE: #/ (included)
+✅ DOMAIN NAME: # (included)
 ✅ ALL SOURCE CODE: Full access to modify and customize
 ✅ WORKING TOOLS: All automation tools tested and functional
 ✅ 30-DAY SUPPORT: Free setup and training included
@@ -150,7 +150,7 @@ I just launched something that could change your business forever.
 It's a complete automation business system that's already generating revenue and can be yours today.
 
 What you get:
-✅ Live website with domain (the-automatepro.info)
+✅ Live website with domain (#)
 ✅ All automation tools working
 ✅ $30K+ monthly revenue potential
 ✅ 30-day free support
@@ -239,7 +239,7 @@ Best regards,
 ## **📞 SUPPORT STRATEGY**
 
 ### **For Buyers**
-- **Email Support**: support@the-automatepro.info
+- **Email Support**: support@#
 - **Response Time**: 4 hours (business days)
 - **Video Calls**: 1-on-1 setup assistance
 - **Documentation**: Complete guides included

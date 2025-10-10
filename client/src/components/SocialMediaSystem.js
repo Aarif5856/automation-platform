@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
-import { motion } from 'framer-motion';
 import { 
-  FiTwitter, 
   FiLinkedin, 
   FiFacebook, 
   FiInstagram, 
@@ -12,12 +10,11 @@ import {
   FiUsers,
   FiEye,
   FiHeart,
-  FiMessageCircle,
-  FiShare2,
   FiCalendar,
   FiBarChart,
   FiZap
 } from 'react-icons/fi';
+import { FaXTwitter } from 'react-icons/fa6';
 
 const SocialMediaContainer = styled.div`
   background: rgba(255, 255, 255, 0.95);
@@ -296,7 +293,7 @@ const AnalyticsPanel = styled.div`
 
 const SocialMediaSystem = () => {
   const [activePlatform, setActivePlatform] = useState('all');
-  const [selectedPlatforms, setSelectedPlatforms] = useState(['twitter', 'linkedin']);
+  const [selectedPlatforms, setSelectedPlatforms] = useState(['x', 'linkedin']);
   const [postData, setPostData] = useState({
     content: '',
     image: '',
@@ -305,7 +302,7 @@ const SocialMediaSystem = () => {
   });
 
   const platforms = [
-    { id: 'twitter', name: 'Twitter', icon: <FiTwitter />, color: '#1da1f2' },
+    { id: 'x', name: 'X', icon: <FaXTwitter />, color: '#000000' },
     { id: 'linkedin', name: 'LinkedIn', icon: <FiLinkedin />, color: '#0077b5' },
     { id: 'facebook', name: 'Facebook', icon: <FiFacebook />, color: '#1877f2' },
     { id: 'instagram', name: 'Instagram', icon: <FiInstagram />, color: '#e4405f' },
@@ -322,8 +319,8 @@ const SocialMediaSystem = () => {
   const recentPosts = [
     {
       id: 1,
-      platform: 'twitter',
-      content: 'Just generated 500+ leads in 1 hour with AutomatePro! 🚀',
+      platform: 'x',
+      content: 'Just generated 500+ leads in 1 hour with Automation Solutions! 🚀',
       reach: 1247,
       engagement: 89
     },

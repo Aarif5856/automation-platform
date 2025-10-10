@@ -7,8 +7,8 @@
 ## **📦 WHAT YOU NOW HAVE**
 
 ### **✅ Complete Business System**
-- **Live Website**: https://www.the-automatepro.info/ (working and accessible)
-- **Domain Name**: the-automatepro.info (included in sale)
+- **Live Website**: #/ (working and accessible)
+- **Domain Name**: # (included in sale)
 - **All Source Code**: Full access to modify and customize
 - **Working Tools**: All automation tools tested and functional
 - **Database**: Complete client and project management

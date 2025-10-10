@@ -14,7 +14,7 @@
 $30K+ Monthly Revenue Potential
 Ready to Use Today"
 
-[Show website: https://www.the-automatepro.info/]
+[Show website: #/]
 ```
 
 ### **Scene 2: Website Demo (30 seconds - 2 minutes)**

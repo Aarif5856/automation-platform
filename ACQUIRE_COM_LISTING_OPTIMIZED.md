@@ -10,7 +10,7 @@
 
 **Complete B2B automation SaaS platform** generating revenue through multiple streams: SaaS subscriptions, template sales, and professional services. This is a **production-ready, profitable automation business** with proven market validation and significant growth potential.
 
-**Current Status:** Live and revenue-generating at https://www.the-automatepro.info/
+**Current Status:** Live and revenue-generating at #/
 
 **Valuation:** $1,000,000 - $2,500,000 (based on 3-5x revenue multiple)
 
@@ -103,7 +103,7 @@
 - ✅ Deployment guides and configurations
 
 ### **Business Assets:**
-- ✅ Live website: https://www.the-automatepro.info/
+- ✅ Live website: #/
 - ✅ Domain and hosting setup
 - ✅ Customer database and relationships
 - ✅ Marketing materials and content
@@ -237,7 +237,7 @@
 ## 📈 Success Metrics & Validation
 
 ### **Proven Results:**
-- ✅ **Live Website:** https://www.the-automatepro.info/
+- ✅ **Live Website:** #/
 - ✅ **Gumroad Sales:** Active revenue generation
 - ✅ **TemplateMonster:** Approved marketplace presence
 - ✅ **50+ Leads Generated:** In initial testing
@@ -326,14 +326,14 @@ A: Immediate revenue potential with existing sales channels.
 ## 📞 Next Steps
 
 ### **For Serious Buyers:**
-1. **Review Live Demo:** https://www.the-automatepro.info/
+1. **Review Live Demo:** #/
 2. **Analyze Financial Projections:** Detailed revenue models
 3. **Technical Due Diligence:** Code quality and architecture
 4. **Market Research:** Competitive analysis and opportunities
 5. **Make Offer:** Based on valuation and growth potential
 
 ### **Contact Information:**
-- **Live Demo:** https://www.the-automatepro.info/
+- **Live Demo:** #/
 - **Business Type:** B2B SaaS + Digital Products + Professional Services
 - **Revenue Status:** Active and Growing
 - **Transfer Ready:** Immediate

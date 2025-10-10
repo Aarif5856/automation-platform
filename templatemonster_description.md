@@ -7,7 +7,7 @@
 ```
 🚀 COMPLETE AUTOMATION BUSINESS DASHBOARD TEMPLATE - START EARNING $10K+ MONTHLY!
 
-✅ LIVE DEMO: https://www.the-automatepro.info/
+✅ LIVE DEMO: #/
 
 Professional React.js dashboard template for automation businesses. Complete SaaS platform with LinkedIn lead generation, email marketing automation, web scraping tools, and CRM integration. Ready-to-deploy business system with modern UI/UX design.
 
@@ -44,7 +44,7 @@ Professional React.js dashboard template for automation businesses. Complete Saa
 • Professional UI/UX design
 
 📈 PROVEN RESULTS:
-• Live demo available at https://www.the-automatepro.info/
+• Live demo available at #/
 • 50+ leads generated in first test
 • 4+ successful email campaigns
 • Professional conversion-optimized design
@@ -107,7 +107,7 @@ Perfect for developers, entrepreneurs, and agencies looking to launch profitable
 
 ### **Competitive Advantages:**
 
-1. **Live Demo Proof** - https://www.the-automatepro.info/ shows it works
+1. **Live Demo Proof** - #/ shows it works
 2. **Complete Solution** - Full business system, not just templates
 3. **Revenue Focus** - Templates designed to generate income
 4. **Professional Quality** - Enterprise-grade development

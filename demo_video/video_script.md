@@ -7,7 +7,7 @@
 "Hi, I'm going to show you a complete automation business system that's already generating revenue and can be yours today. This isn't just software - it's a turnkey business opportunity with a live website, working tools, and proven revenue potential of $30K+ per month."
 
 ## SCENE 2: WEBSITE DEMO (30 seconds - 2 minutes)
-"Let me show you the live website first. Here's the-automatepro.info - a professional automation business site that's already deployed and making money."
+"Let me show you the live website first. Here's # - a professional automation business site that's already deployed and making money."
 
 [Show website navigation]
 - Professional design

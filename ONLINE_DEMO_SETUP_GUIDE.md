@@ -265,7 +265,7 @@ const DEMO_LIMITS = {
 
 ### ✅ LIVE DEMO AVAILABLE
 **Demo URL:** https://your-demo.com
-**Demo Video:** https://youtube.com/watch?v=your-video
+**Demo Video:** #
 
 ### 🚀 KEY FEATURES
 - LinkedIn Lead Generator (500+ leads/day)

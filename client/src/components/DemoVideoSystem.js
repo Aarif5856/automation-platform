@@ -217,7 +217,7 @@ const DemoVideoSystem = () => {
     {
       id: 1,
       title: 'Platform Overview Demo',
-      description: 'Complete walkthrough of AutomatePro features and capabilities',
+      description: 'Complete walkthrough of Automation Solutions features and capabilities',
       duration: '5:32',
       views: 1247,
       likes: 89,

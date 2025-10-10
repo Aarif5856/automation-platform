@@ -10,7 +10,7 @@
 
 ### **Recommended Main Image:**
 **Dashboard Overview Screenshot**
-- Take screenshot of https://www.the-automatepro.info/ dashboard
+- Take screenshot of #/ dashboard
 - Crop to 8:5 ratio (e.g., 1200x750px)
 - Add text overlay: "Automation Business Dashboard"
 - Include key features: "Lead Generation • Email Automation • Analytics"
@@ -64,7 +64,7 @@
 
 ## 📱 **Screenshot Sources:**
 
-### **From Your Live Site (https://www.the-automatepro.info/):**
+### **From Your Live Site (#/):**
 1. **Main Dashboard** - Overview page
 2. **Lead Generation** - LinkedIn automation tool
 3. **Email Campaigns** - Email marketing interface
@@ -97,7 +97,7 @@
 ## 🚀 **Quick Image Creation:**
 
 ### **Using Browser Screenshots:**
-1. **Open** https://www.the-automatepro.info/
+1. **Open** #/
 2. **Navigate** to each feature
 3. **Take screenshot** (F12 → Device toolbar for mobile)
 4. **Crop to requirements** (8:5 for main, 965x600+ for slider)

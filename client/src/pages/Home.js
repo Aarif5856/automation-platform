@@ -4,7 +4,6 @@ import styled from 'styled-components';
 import { motion } from 'framer-motion';
 import { 
   FiArrowRight, 
-  FiCheck, 
   FiUsers, 
   FiTrendingUp, 
   FiZap, 
@@ -553,7 +552,7 @@ const Home = () => {
     {
       name: "Sarah Johnson",
       role: "CTO, Fortune 500 Company",
-      content: "AutomatePro's agentic process automation transformed our entire operations. We achieved 80% productivity gains across 1000+ users and reduced processing time by 2 hours per transaction.",
+      content: "Automation Solutions's agentic process automation transformed our entire operations. We achieved 80% productivity gains across 1000+ users and reduced processing time by 2 hours per transaction.",
       rating: 5
     },
     {
@@ -565,7 +564,7 @@ const Home = () => {
     {
       name: "Emily Rodriguez",
       role: "CEO, Financial Services",
-      content: "We've integrated AutomatePro across our entire loan processing workflow. The system now handles document verification, compliance checks, and eligibility determination automatically, saving us millions annually.",
+      content: "We've integrated Automation Solutions across our entire loan processing workflow. The system now handles document verification, compliance checks, and eligibility determination automatically, saving us millions annually.",
       rating: 5
     }
   ];
@@ -580,7 +579,7 @@ const Home = () => {
   return (
     <div>
       <Banner>
-        🚀 AutomatePro recognized as one of the '7 Wonders of AI' transforming business automation
+        🚀 Automation Solutions recognized as one of the '7 Wonders of AI' transforming business automation
       </Banner>
 
       <HeroSection>

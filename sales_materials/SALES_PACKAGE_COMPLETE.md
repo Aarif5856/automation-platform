@@ -7,8 +7,8 @@
 ## **📦 WHAT YOU GET**
 
 ### **🎯 Complete Business System**
-- ✅ **Live Website**: https://www.the-automatepro.info/ (included)
-- ✅ **Domain Name**: the-automatepro.info (included)
+- ✅ **Live Website**: #/ (included)
+- ✅ **Domain Name**: # (included)
 - ✅ **All Source Code**: Full access to modify and customize
 - ✅ **Database**: Complete client and project management
 - ✅ **Payment Integration**: Stripe, PayPal, Square ready
@@ -284,10 +284,10 @@
 ## **📞 CONTACT & ORDER**
 
 ### **Order Now**
-- **Website**: https://www.the-automatepro.info/
-- **Email**: sales@the-automatepro.info
+- **Website**: #/
+- **Email**: sales@#
 - **Phone**: +1 (555) 123-4567
-- **Support**: support@the-automatepro.info
+- **Support**: support@#
 
 ### **Payment Methods**
 - **Credit Card**: Visa, MasterCard, American Express

@@ -22,6 +22,11 @@ import PrivacyPolicy from './pages/PrivacyPolicy';
 import FreeDemo from './pages/FreeDemo';
 import ServicePackages from './pages/ServicePackages';
 import WebScraping from './pages/WebScraping';
+import AIEmailMarketing from './pages/AIEmailMarketing';
+import BusinessProcessAutomation from './pages/BusinessProcessAutomation';
+import LeadGenerationAutomation from './pages/LeadGenerationAutomation';
+import WorkflowAutomation from './pages/WorkflowAutomation';
+import MarketingAutomation from './pages/MarketingAutomation';
 import ProtectedRoute from './components/ProtectedRoute';
 import AIChatbot from './components/AIChatbot';
 import LimitedTimeOffer from './components/LimitedTimeOffer';
@@ -56,6 +61,11 @@ function App() {
               <Route path="/free-demo" element={<FreeDemo />} />
               <Route path="/packages" element={<ServicePackages />} />
               <Route path="/web-scraping" element={<WebScraping />} />
+              <Route path="/ai-email-marketing" element={<AIEmailMarketing />} />
+              <Route path="/business-process-automation" element={<BusinessProcessAutomation />} />
+              <Route path="/lead-generation-automation" element={<LeadGenerationAutomation />} />
+              <Route path="/workflow-automation" element={<WorkflowAutomation />} />
+              <Route path="/marketing-automation" element={<MarketingAutomation />} />
               <Route 
                 path="/dashboard" 
                 element={

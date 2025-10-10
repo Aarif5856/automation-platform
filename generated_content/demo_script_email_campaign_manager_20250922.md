@@ -19,5 +19,5 @@ It's like having a full-time email marketing team."
 and 12% click rate. Our client is getting professional results without any technical knowledge."
 
 ## Call to Action (15 seconds)
-"Ready to automate your email marketing? Contact us at info@the-automatepro.info. 
+"Ready to automate your email marketing? Contact us at contact@example.com. 
 We'll set up your entire email marketing system in just 24 hours."

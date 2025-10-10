@@ -67,7 +67,7 @@ Ready to Use Today"
 ```
 [Show website navigation]
 [Text Overlay: "Professional Business Website"]
-[Text Overlay: "Live at the-automatepro.info"]
+[Text Overlay: "Live at #"]
 [Text Overlay: "Already Generating Revenue"]
 ```
 

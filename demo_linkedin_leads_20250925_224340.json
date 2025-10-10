@@ -7,7 +7,7 @@
     "phone": "+1-555-0123",
     "location": "New York, NY",
     "industry": "Real Estate",
-    "linkedin_url": "https://linkedin.com/in/sarah-johnson-realestate",
+    "linkedin_url": "#",
     "priority": "High",
     "notes": "Active in luxury real estate market"
   },
@@ -19,7 +19,7 @@
     "phone": "+1-555-0124",
     "location": "Los Angeles, CA",
     "industry": "Insurance",
-    "linkedin_url": "https://linkedin.com/in/mike-chen-insurance",
+    "linkedin_url": "#",
     "priority": "High",
     "notes": "Specializes in commercial insurance"
   },
@@ -31,7 +31,7 @@
     "phone": "+1-555-0125",
     "location": "Chicago, IL",
     "industry": "Marketing",
-    "linkedin_url": "https://linkedin.com/in/lisa-rodriguez-marketing",
+    "linkedin_url": "#",
     "priority": "Medium",
     "notes": "Looking for automation solutions"
   },
@@ -43,7 +43,7 @@
     "phone": "+1-555-0126",
     "location": "Miami, FL",
     "industry": "Legal",
-    "linkedin_url": "https://linkedin.com/in/david-thompson-law",
+    "linkedin_url": "#",
     "priority": "Medium",
     "notes": "Personal injury law specialist"
   },
@@ -55,7 +55,7 @@
     "phone": "+1-555-0127",
     "location": "Seattle, WA",
     "industry": "Consulting",
-    "linkedin_url": "https://linkedin.com/in/jennifer-lee-consulting",
+    "linkedin_url": "#",
     "priority": "High",
     "notes": "Helps small businesses grow"
   }

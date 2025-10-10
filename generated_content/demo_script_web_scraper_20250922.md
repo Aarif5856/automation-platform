@@ -19,5 +19,5 @@ with all the contact information our client needs."
 Our client can now reach out to these prospects immediately. This would have taken them weeks to do manually."
 
 ## Call to Action (15 seconds)
-"If you need data extraction for your business, contact us at info@the-automatepro.info. 
+"If you need data extraction for your business, contact us at contact@example.com. 
 We can scrape any website and deliver the data in any format you need."
