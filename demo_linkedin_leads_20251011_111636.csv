@@ -1,0 +1,6 @@
+name,company,title,email,phone,location,industry,linkedin_url,priority,notes
+Sarah Johnson,Johnson Real Estate,Senior Real Estate Agent,sarah.johnson@johnsonrealestate.com,+1-555-0123,"New York, NY",Real Estate,https://linkedin.com/in/sarah-johnson-realestate,High,Active in luxury real estate market
+Mike Chen,Chen Insurance Group,Insurance Broker,mike.chen@cheninsurance.com,+1-555-0124,"Los Angeles, CA",Insurance,https://linkedin.com/in/mike-chen-insurance,High,Specializes in commercial insurance
+Lisa Rodriguez,Rodriguez Marketing Solutions,Marketing Director,lisa.rodriguez@rodriguezmarketing.com,+1-555-0125,"Chicago, IL",Marketing,https://linkedin.com/in/lisa-rodriguez-marketing,Medium,Looking for automation solutions
+David Thompson,Thompson Law Firm,Partner,david.thompson@thompsonlaw.com,+1-555-0126,"Miami, FL",Legal,https://linkedin.com/in/david-thompson-law,Medium,Personal injury law specialist
+Jennifer Lee,Lee Consulting Group,Business Consultant,jennifer.lee@leeconsulting.com,+1-555-0127,"Seattle, WA",Consulting,https://linkedin.com/in/jennifer-lee-consulting,High,Helps small businesses grow

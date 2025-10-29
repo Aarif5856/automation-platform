@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Installation Guide - Automation Dashboard Template</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f8f9fa;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 2rem 0;
+            text-align: center;
+            margin-bottom: 2rem;
+            border-radius: 10px;
+        }
+        
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+        
+        .nav {
+            background: white;
+            padding: 1rem;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            margin-bottom: 2rem;
+        }
+        
+        .nav ul {
+            list-style: none;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+        
+        .nav a {
+            color: #667eea;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+        }
+        
+        .nav a:hover {
+            background: #667eea;
+            color: white;
+        }
+        
+        .content {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            margin-bottom: 2rem;
+        }
+        
+        .content h1, .content h2, .content h3 {
+            color: #667eea;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }
+        
+        .content h1 {
+            font-size: 2rem;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 0.5rem;
+        }
+        
+        .content h2 {
+            font-size: 1.5rem;
+            border-left: 4px solid #667eea;
+            padding-left: 1rem;
+        }
+        
+        .content h3 {
+            font-size: 1.2rem;
+            color: #555;
+        }
+        
+        .content p {
+            margin-bottom: 1rem;
+        }
+        
+        .content ul, .content ol {
+            margin-left: 2rem;
+            margin-bottom: 1rem;
+        }
+        
+        .content li {
+            margin-bottom: 0.5rem;
+        }
+        
+        .code-block {
+            background: #f8f9fa;
+            border: 1px solid #e9ecef;
+            border-radius: 5px;
+            padding: 1rem;
+            margin: 1rem 0;
+            overflow-x: auto;
+        }
+        
+        .code-block pre {
+            margin: 0;
+            font-family: 'Courier New', monospace;
+        }
+        
+        .highlight {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            border-radius: 5px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+        
+        .success {
+            background: #d4edda;
+            border: 1px solid #c3e6cb;
+            color: #155724;
+            border-radius: 5px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+        
+        .warning {
+            background: #f8d7da;
+            border: 1px solid #f5c6cb;
+            color: #721c24;
+            border-radius: 5px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+        
+        .info {
+            background: #d1ecf1;
+            border: 1px solid #bee5eb;
+            color: #0c5460;
+            border-radius: 5px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 2rem;
+            color: #666;
+            border-top: 1px solid #eee;
+        }
+        
+        @media (max-width: 768px) {
+            .nav ul {
+                flex-direction: column;
+            }
+            
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .content {
+                padding: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Installation Guide</h1>
+            <p>Automation Business Dashboard Template Documentation</p>
+        </div>
+        
+        <nav class="nav">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="installation.html">Installation</a></li>
+                <li><a href="quick-start.html">Quick Start</a></li>
+                <li><a href="customization.html">Customization</a></li>
+                <li><a href="features.html">Features</a></li>
+                <li><a href="troubleshooting.html">Troubleshooting</a></li>
+                <li><a href="api-reference.html">API Reference</a></li>
+                <li><a href="deployment.html">Deployment</a></li>
+            </ul>
+        </nav>
+        
+        <div class="content">
+            <h1>🚀 TemplateMonster Installation Guide - Complete Setup</h1>
+<h2>📋 <strong>Installation Requirements</strong></h2>
+<h3><strong>System Requirements:</strong></h3>
+<ul>
+<li><strong>Node.js:</strong> Version 16.0 or higher</li>
+<li><strong>Python:</strong> Version 3.8 or higher</li>
+<li><strong>MongoDB:</strong> Version 4.4 or higher (or MongoDB Atlas)</li>
+<li><strong>Git:</strong> For cloning the repository</li>
+<li><strong>Operating System:</strong> Windows 10+, macOS 10.15+, or Linux</li>
+</ul>
+<h3><strong>Browser Support:</strong></h3>
+<ul>
+<li>Chrome 90+</li>
+<li>Firefox 88+</li>
+<li>Safari 14+</li>
+<li>Edge 90+</li>
+</ul>
+<hr />
+<h2>🛠️ <strong>Step-by-Step Installation</strong></h2>
+<h3><strong>Step 1: Download and Extract Template</strong></h3>
+<ol>
+<li><strong>Download the template package</strong> from TemplateMonster</li>
+<li><strong>Extract the ZIP file</strong> to your desired location</li>
+<li><strong>Open terminal/command prompt</strong> in the extracted folder</li>
+</ol>
+<div class="codehilite"><pre><span></span><code><span class="c1"># Navigate to the template directory</span>
+<span class="nb">cd</span><span class="w"> </span>automation-business-dashboard-template
+</code></pre></div>
+
+<h3><strong>Step 2: Install Node.js Dependencies</strong></h3>
+<div class="codehilite"><pre><span></span><code><span class="c1"># Install frontend dependencies</span>
+<span class="nb">cd</span><span class="w"> </span>client
+npm<span class="w"> </span>install
+
+<span class="c1"># Go back to root directory</span>
+<span class="nb">cd</span><span class="w"> </span>..
+
+<span class="c1"># Install backend dependencies</span>
+npm<span class="w"> </span>install
+</code></pre></div>
+
+<p><strong>If you encounter errors:</strong></p>
+<div class="codehilite"><pre><span></span><code><span class="c1"># Clear npm cache</span>
+npm<span class="w"> </span>cache<span class="w"> </span>clean<span class="w"> </span>--force
+
+<span class="c1"># Delete node_modules and package-lock.json</span>
+rm<span class="w"> </span>-rf<span class="w"> </span>node_modules<span class="w"> </span>package-lock.json
+rm<span class="w"> </span>-rf<span class="w"> </span>client/node_modules<span class="w"> </span>client/package-lock.json
+
+<span class="c1"># Reinstall</span>
+npm<span class="w"> </span>install
+<span class="nb">cd</span><span class="w"> </span>client<span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span>npm<span class="w"> </span>install<span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="nb">cd</span><span class="w"> </span>..
+</code></pre></div>
+
+<h3><strong>Step 3: Install Python Dependencies</strong></h3>
+<div class="codehilite"><pre><span></span><code><span class="c1"># Install Python packages</span>
+pip<span class="w"> </span>install<span class="w"> </span>-r<span class="w"> </span>requirements.txt
+
+<span class="c1"># If you have multiple Python versions, use:</span>
+python3<span class="w"> </span>-m<span class="w"> </span>pip<span class="w"> </span>install<span class="w"> </span>-r<span class="w"> </span>requirements.txt
+</code></pre></div>
+
+<p><strong>If you encounter errors:</strong></p>
+<div class="codehilite"><pre><span></span><code><span class="c1"># Upgrade pip first</span>
+python<span class="w"> </span>-m<span class="w"> </span>pip<span class="w"> </span>install<span class="w"> </span>--upgrade<span class="w"> </span>pip
+
+<span class="c1"># Install with user flag</span>
+pip<span class="w"> </span>install<span class="w"> </span>--user<span class="w"> </span>-r<span class="w"> </span>requirements.txt
+</code></pre></div>
+
+<h3><strong>Step 4: Database Setup</strong></h3>
+<h4><strong>Option A: MongoDB Atlas (Recommended)</strong></h4>
+<ol>
+<li><strong>Create free account</strong> at <a href="https://mongodb.com/atlas">mongodb.com/atlas</a></li>
+<li><strong>Create a new cluster</strong> (free tier available)</li>
+<li><strong>Get connection string</strong> from Atlas dashboard</li>
+<li><strong>Update configuration:</strong></li>
+</ol>
+<div class="codehilite"><pre><span></span><code><span class="c1"># Create environment file</span>
+cp<span class="w"> </span>.env.example<span class="w"> </span>.env
+</code></pre></div>
+
+<p>Edit <code>.env</code> file:</p>
+<div class="codehilite"><pre><span></span><code><span class="n">MONGODB_URI</span><span class="o">=</span><span class="n">mongodb</span><span class="o">+</span><span class="nl">srv</span><span class="p">:</span><span class="o">//</span><span class="nl">username</span><span class="p">:</span><span class="n">password</span><span class="nv">@cluster</span><span class="p">.</span><span class="n">mongodb</span><span class="p">.</span><span class="n">net</span><span class="o">/</span><span class="n">automation_db</span>
+<span class="n">JWT_SECRET</span><span class="o">=</span><span class="n">your_jwt_secret_here</span>
+<span class="n">GOOGLE_CLIENT_ID</span><span class="o">=</span><span class="n">your_google_client_id</span>
+<span class="n">GOOGLE_CLIENT_SECRET</span><span class="o">=</span><span class="n">your_google_client_secret</span>
+<span class="n">PORT</span><span class="o">=</span><span class="mi">3001</span>
+</code></pre></div>
+
+<h4><strong>Option B: Local MongoDB</strong></h4>
+<ol>
+<li><strong>Install MongoDB locally:</strong></li>
+<li>Windows: Download from <a href="https://mongodb.com">mongodb.com</a></li>
+<li>macOS: <code>brew install mongodb-community</code></li>
+<li>
+<p>Linux: <code>sudo apt-get install mongodb</code></p>
+</li>
+<li>
+<p><strong>Start MongoDB service:</strong>
+   ```bash
+   # Windows
+   net start MongoDB</p>
+</li>
+</ol>
+<p># macOS/Linux
+   sudo systemctl start mongod
+   ```</p>
+<ol>
+<li><strong>Update .env file:</strong>
+   <code>env
+   MONGODB_URI=mongodb://localhost:27017/automation_db</code></li>
+</ol>
+<h3><strong>Step 5: Google OAuth Setup (Optional)</strong></h3>
+<ol>
+<li><strong>Go to <a href="https://console.cloud.google.com">Google Cloud Console</a></strong></li>
+<li><strong>Create new project</strong> or select existing</li>
+<li><strong>Enable Google+ API</strong></li>
+<li><strong>Create OAuth 2.0 credentials</strong></li>
+<li><strong>Add authorized redirect URIs:</strong></li>
+<li><code>http://localhost:3001/api/auth/google/callback</code></li>
+<li>
+<p><code>https://yourdomain.com/api/auth/google/callback</code></p>
+</li>
+<li>
+<p><strong>Update .env file with credentials:</strong>
+   <code>env
+   GOOGLE_CLIENT_ID=your_client_id_here
+   GOOGLE_CLIENT_SECRET=your_client_secret_here</code></p>
+</li>
+</ol>
+<h3><strong>Step 6: Initialize Database</strong></h3>
+<div class="codehilite"><pre><span></span><code><span class="c1"># Run database setup script</span>
+node<span class="w"> </span>setup-database.js
+</code></pre></div>
+
+<p><strong>Expected output:</strong></p>
+<div class="codehilite"><pre><span></span><code><span class="err">✅</span><span class="w"> </span><span class="k">Database</span><span class="w"> </span><span class="n">connected</span><span class="w"> </span><span class="n">successfully</span>
+<span class="err">✅</span><span class="w"> </span><span class="n">Sample</span><span class="w"> </span><span class="k">data</span><span class="w"> </span><span class="n">created</span>
+<span class="err">✅</span><span class="w"> </span><span class="k">Admin</span><span class="w"> </span><span class="k">user</span><span class="w"> </span><span class="nl">created</span><span class="p">:</span><span class="w"> </span><span class="k">admin</span><span class="nv">@example</span><span class="p">.</span><span class="n">com</span>
+<span class="err">✅</span><span class="w"> </span><span class="n">Demo</span><span class="w"> </span><span class="n">users</span><span class="w"> </span><span class="n">created</span>
+<span class="err">✅</span><span class="w"> </span><span class="k">Database</span><span class="w"> </span><span class="n">setup</span><span class="w"> </span><span class="n">complete</span><span class="err">!</span>
+</code></pre></div>
+
+<h3><strong>Step 7: Start the Application</strong></h3>
+<div class="codehilite"><pre><span></span><code><span class="c1"># Start the backend server</span>
+npm<span class="w"> </span>start
+
+<span class="c1"># In a new terminal, start the frontend</span>
+<span class="nb">cd</span><span class="w"> </span>client
+npm<span class="w"> </span>start
+</code></pre></div>
+
+<p><strong>Expected output:</strong></p>
+<div class="codehilite"><pre><span></span><code>Backend server running on http://localhost:3001
+Frontend server running on http://localhost:3000
+</code></pre></div>
+
+<h3><strong>Step 8: Access the Application</strong></h3>
+<ol>
+<li><strong>Open browser</strong> and go to <code>http://localhost:3000</code></li>
+<li><strong>Login with demo credentials:</strong></li>
+<li>Email: <code>demo@example.com</code></li>
+<li>Password: <code>demo123</code></li>
+</ol>
+<hr />
+<h2>🔧 <strong>Troubleshooting Common Issues</strong></h2>
+<h3><strong>Issue 1: "Module not found" errors</strong></h3>
+<p><strong>Solution:</strong></p>
+<div class="codehilite"><pre><span></span><code><span class="c1"># Clear all caches and reinstall</span>
+rm<span class="w"> </span>-rf<span class="w"> </span>node_modules<span class="w"> </span>package-lock.json
+rm<span class="w"> </span>-rf<span class="w"> </span>client/node_modules<span class="w"> </span>client/package-lock.json
+npm<span class="w"> </span>cache<span class="w"> </span>clean<span class="w"> </span>--force
+npm<span class="w"> </span>install
+<span class="nb">cd</span><span class="w"> </span>client<span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span>npm<span class="w"> </span>install<span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="nb">cd</span><span class="w"> </span>..
+</code></pre></div>
+
+<h3><strong>Issue 2: "Port already in use" error</strong></h3>
+<p><strong>Solution:</strong></p>
+<div class="codehilite"><pre><span></span><code><span class="c1"># Kill process using port 3000</span>
+<span class="c1"># Windows</span>
+netstat<span class="w"> </span>-ano<span class="w"> </span><span class="p">|</span><span class="w"> </span>findstr<span class="w"> </span>:3000
+taskkill<span class="w"> </span>/PID<span class="w"> </span>&lt;PID_NUMBER&gt;<span class="w"> </span>/F
+
+<span class="c1"># macOS/Linux</span>
+lsof<span class="w"> </span>-ti:3000<span class="w"> </span><span class="p">|</span><span class="w"> </span>xargs<span class="w"> </span><span class="nb">kill</span><span class="w"> </span>-9
+
+<span class="c1"># Or change port in package.json</span>
+</code></pre></div>
+
+<h3><strong>Issue 3: MongoDB connection failed</strong></h3>
+<p><strong>Solution:</strong>
+1. <strong>Check MongoDB is running:</strong>
+   ```bash
+   # Windows
+   net start MongoDB</p>
+<p># macOS/Linux
+   sudo systemctl start mongod
+   ```</p>
+<ol>
+<li><strong>Verify connection string in .env file</strong></li>
+<li><strong>Check firewall settings</strong></li>
+<li><strong>For Atlas: Verify IP whitelist</strong></li>
+</ol>
+<h3><strong>Issue 4: Python dependencies not installing</strong></h3>
+<p><strong>Solution:</strong></p>
+<div class="codehilite"><pre><span></span><code><span class="c1"># Use virtual environment</span>
+python<span class="w"> </span>-m<span class="w"> </span>venv<span class="w"> </span>venv
+
+<span class="c1"># Activate virtual environment</span>
+<span class="c1"># Windows</span>
+venv<span class="se">\S</span>cripts<span class="se">\a</span>ctivate
+
+<span class="c1"># macOS/Linux</span>
+<span class="nb">source</span><span class="w"> </span>venv/bin/activate
+
+<span class="c1"># Install dependencies</span>
+pip<span class="w"> </span>install<span class="w"> </span>-r<span class="w"> </span>requirements.txt
+</code></pre></div>
+
+<h3><strong>Issue 5: "EADDRINUSE" error</strong></h3>
+<p><strong>Solution:</strong></p>
+<div class="codehilite"><pre><span></span><code><span class="c1"># Find and kill process using port</span>
+<span class="c1"># Windows</span>
+netstat<span class="w"> </span>-ano<span class="w"> </span><span class="p">|</span><span class="w"> </span>findstr<span class="w"> </span>:3001
+taskkill<span class="w"> </span>/PID<span class="w"> </span>&lt;PID_NUMBER&gt;<span class="w"> </span>/F
+
+<span class="c1"># macOS/Linux</span>
+lsof<span class="w"> </span>-ti:3001<span class="w"> </span><span class="p">|</span><span class="w"> </span>xargs<span class="w"> </span><span class="nb">kill</span><span class="w"> </span>-9
+</code></pre></div>
+
+<hr />
+<h2>📱 <strong>Mobile Setup (Optional)</strong></h2>
+<h3><strong>For Mobile Development:</strong></h3>
+<ol>
+<li>
+<p><strong>Install React Native CLI:</strong>
+   <code>bash
+   npm install -g @react-native-community/cli</code></p>
+</li>
+<li>
+<p><strong>Install Android Studio</strong> (for Android)</p>
+</li>
+<li><strong>Install Xcode</strong> (for iOS - macOS only)</li>
+</ol>
+<hr />
+<h2>🌐 <strong>Production Deployment</strong></h2>
+<h3><strong>Deploy to Heroku:</strong></h3>
+<ol>
+<li><strong>Install Heroku CLI</strong></li>
+<li>
+<p><strong>Create Heroku app:</strong>
+   <code>bash
+   heroku create your-app-name</code></p>
+</li>
+<li>
+<p><strong>Set environment variables:</strong>
+   <code>bash
+   heroku config:set MONGODB_URI=your_mongodb_uri
+   heroku config:set JWT_SECRET=your_jwt_secret</code></p>
+</li>
+<li>
+<p><strong>Deploy:</strong>
+   <code>bash
+   git add .
+   git commit -m "Initial commit"
+   git push heroku main</code></p>
+</li>
+</ol>
+<h3><strong>Deploy to Vercel:</strong></h3>
+<ol>
+<li>
+<p><strong>Install Vercel CLI:</strong>
+   <code>bash
+   npm install -g vercel</code></p>
+</li>
+<li>
+<p><strong>Deploy:</strong>
+   <code>bash
+   vercel</code></p>
+</li>
+</ol>
+<hr />
+<h2>📊 <strong>Verification Checklist</strong></h2>
+<p>After installation, verify these features work:</p>
+<ul>
+<li>[ ] <strong>Frontend loads</strong> at <code>http://localhost:3000</code></li>
+<li>[ ] <strong>Backend API responds</strong> at <code>http://localhost:3001/api</code></li>
+<li>[ ] <strong>Database connection</strong> established</li>
+<li>[ ] <strong>User authentication</strong> works</li>
+<li>[ ] <strong>Dashboard displays</strong> correctly</li>
+<li>[ ] <strong>All automation tools</strong> load</li>
+<li>[ ] <strong>Mobile responsive</strong> design works</li>
+<li>[ ] <strong>No console errors</strong> in browser</li>
+</ul>
+<hr />
+<h2>🆘 <strong>Getting Help</strong></h2>
+<h3><strong>If you're still having issues:</strong></h3>
+<ol>
+<li><strong>Check the console</strong> for error messages</li>
+<li><strong>Verify all dependencies</strong> are installed correctly</li>
+<li><strong>Ensure ports 3000 and 3001</strong> are available</li>
+<li><strong>Check MongoDB</strong> is running and accessible</li>
+<li><strong>Review the .env file</strong> configuration</li>
+</ol>
+<h3><strong>Common Error Messages:</strong></h3>
+<p>| Error | Solution |
+|-------|----------|
+| <code>Cannot find module</code> | Run <code>npm install</code> |
+| <code>Port 3000 in use</code> | Kill process or change port |
+| <code>MongoDB connection failed</code> | Check connection string |
+| <code>EADDRINUSE</code> | Port already in use |
+| <code>Module not found</code> | Clear cache and reinstall |</p>
+<hr />
+<h2>🎯 <strong>Quick Start Commands</strong></h2>
+<div class="codehilite"><pre><span></span><code><span class="c1"># Complete setup in one go</span>
+git<span class="w"> </span>clone<span class="w"> </span>&lt;repository-url&gt;
+<span class="nb">cd</span><span class="w"> </span>automation-business-dashboard-template
+npm<span class="w"> </span>install
+<span class="nb">cd</span><span class="w"> </span>client<span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span>npm<span class="w"> </span>install<span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="nb">cd</span><span class="w"> </span>..
+pip<span class="w"> </span>install<span class="w"> </span>-r<span class="w"> </span>requirements.txt
+cp<span class="w"> </span>.env.example<span class="w"> </span>.env
+<span class="c1"># Edit .env with your MongoDB URI</span>
+node<span class="w"> </span>setup-database.js
+npm<span class="w"> </span>start
+<span class="c1"># In new terminal: cd client &amp;&amp; npm start</span>
+</code></pre></div>
+
+<hr />
+<h2>✅ <strong>Installation Complete!</strong></h2>
+<p>Your automation business dashboard should now be running at:
+- <strong>Frontend:</strong> http://localhost:3000
+- <strong>Backend API:</strong> http://localhost:3001</p>
+<p><strong>Demo Login:</strong>
+- Email: <code>demo@example.com</code>
+- Password: <code>demo123</code></p>
+<p><strong>Next Steps:</strong>
+1. Explore the dashboard features
+2. Customize the branding
+3. Set up your own automation tools
+4. Deploy to production</p>
+<hr />
+<p><strong>Need more help?</strong> Check the documentation folder for detailed guides on customization and advanced features.</p>
+        </div>
+        
+        <div class="footer">
+            <p>&copy; 2024 Automation Dashboard Template. All rights reserved.</p>
+            <p>Template ID: 1692573 | Version: 1.0.0</p>
+        </div>
+    </div>
+</body>
+</html>

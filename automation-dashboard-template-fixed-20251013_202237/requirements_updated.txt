@@ -1,0 +1,36 @@
+# Python Dependencies for Automation Scripts
+# Updated for Python 3.13 compatibility
+
+# Web Scraping and Automation
+selenium>=4.15.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+lxml>=4.9.0
+
+# Email and Communication
+email-validator>=2.1.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+
+# Web Drivers
+webdriver-manager>=4.0.0
+
+# Database
+pymongo>=4.6.0
+
+# Utilities
+python-dotenv>=1.0.0
+python-dateutil>=2.8.0
+
+# Data Visualization and Analytics
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.17.0
+
+# Scheduling and Automation
+schedule>=1.2.0
+APScheduler>=3.10.0

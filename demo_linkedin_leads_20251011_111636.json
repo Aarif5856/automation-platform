@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Sarah Johnson",
+    "company": "Johnson Real Estate",
+    "title": "Senior Real Estate Agent",
+    "email": "sarah.johnson@johnsonrealestate.com",
+    "phone": "+1-555-0123",
+    "location": "New York, NY",
+    "industry": "Real Estate",
+    "linkedin_url": "https://linkedin.com/in/sarah-johnson-realestate",
+    "priority": "High",
+    "notes": "Active in luxury real estate market"
+  },
+  {
+    "name": "Mike Chen",
+    "company": "Chen Insurance Group",
+    "title": "Insurance Broker",
+    "email": "mike.chen@cheninsurance.com",
+    "phone": "+1-555-0124",
+    "location": "Los Angeles, CA",
+    "industry": "Insurance",
+    "linkedin_url": "https://linkedin.com/in/mike-chen-insurance",
+    "priority": "High",
+    "notes": "Specializes in commercial insurance"
+  },
+  {
+    "name": "Lisa Rodriguez",
+    "company": "Rodriguez Marketing Solutions",
+    "title": "Marketing Director",
+    "email": "lisa.rodriguez@rodriguezmarketing.com",
+    "phone": "+1-555-0125",
+    "location": "Chicago, IL",
+    "industry": "Marketing",
+    "linkedin_url": "https://linkedin.com/in/lisa-rodriguez-marketing",
+    "priority": "Medium",
+    "notes": "Looking for automation solutions"
+  },
+  {
+    "name": "David Thompson",
+    "company": "Thompson Law Firm",
+    "title": "Partner",
+    "email": "david.thompson@thompsonlaw.com",
+    "phone": "+1-555-0126",
+    "location": "Miami, FL",
+    "industry": "Legal",
+    "linkedin_url": "https://linkedin.com/in/david-thompson-law",
+    "priority": "Medium",
+    "notes": "Personal injury law specialist"
+  },
+  {
+    "name": "Jennifer Lee",
+    "company": "Lee Consulting Group",
+    "title": "Business Consultant",
+    "email": "jennifer.lee@leeconsulting.com",
+    "phone": "+1-555-0127",
+    "location": "Seattle, WA",
+    "industry": "Consulting",
+    "linkedin_url": "https://linkedin.com/in/jennifer-lee-consulting",
+    "priority": "High",
+    "notes": "Helps small businesses grow"
+  }
+]

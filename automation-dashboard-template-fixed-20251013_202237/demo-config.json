@@ -1,0 +1,20 @@
+{
+  "demo": true,
+  "limits": {
+    "linkedin_searches": 5,
+    "emails_per_day": 10,
+    "scraping_requests": 20
+  },
+  "features": {
+    "linkedin": true,
+    "email": true,
+    "scraping": true,
+    "analytics": true
+  },
+  "branding": {
+    "company_name": "Automation Business Suite",
+    "logo": "/images/logo.png",
+    "primary_color": "#667eea",
+    "secondary_color": "#764ba2"
+  }
+}

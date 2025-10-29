@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customization Guide - Automation Dashboard Template</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f8f9fa;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 2rem 0;
+            text-align: center;
+            margin-bottom: 2rem;
+            border-radius: 10px;
+        }
+        
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+        
+        .nav {
+            background: white;
+            padding: 1rem;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            margin-bottom: 2rem;
+        }
+        
+        .nav ul {
+            list-style: none;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+        
+        .nav a {
+            color: #667eea;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+        }
+        
+        .nav a:hover {
+            background: #667eea;
+            color: white;
+        }
+        
+        .content {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            margin-bottom: 2rem;
+        }
+        
+        .content h1, .content h2, .content h3 {
+            color: #667eea;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }
+        
+        .content h1 {
+            font-size: 2rem;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 0.5rem;
+        }
+        
+        .content h2 {
+            font-size: 1.5rem;
+            border-left: 4px solid #667eea;
+            padding-left: 1rem;
+        }
+        
+        .content h3 {
+            font-size: 1.2rem;
+            color: #555;
+        }
+        
+        .content p {
+            margin-bottom: 1rem;
+        }
+        
+        .content ul, .content ol {
+            margin-left: 2rem;
+            margin-bottom: 1rem;
+        }
+        
+        .content li {
+            margin-bottom: 0.5rem;
+        }
+        
+        .code-block {
+            background: #f8f9fa;
+            border: 1px solid #e9ecef;
+            border-radius: 5px;
+            padding: 1rem;
+            margin: 1rem 0;
+            overflow-x: auto;
+        }
+        
+        .code-block pre {
+            margin: 0;
+            font-family: 'Courier New', monospace;
+        }
+        
+        .highlight {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            border-radius: 5px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+        
+        .success {
+            background: #d4edda;
+            border: 1px solid #c3e6cb;
+            color: #155724;
+            border-radius: 5px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+        
+        .warning {
+            background: #f8d7da;
+            border: 1px solid #f5c6cb;
+            color: #721c24;
+            border-radius: 5px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+        
+        .info {
+            background: #d1ecf1;
+            border: 1px solid #bee5eb;
+            color: #0c5460;
+            border-radius: 5px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 2rem;
+            color: #666;
+            border-top: 1px solid #eee;
+        }
+        
+        @media (max-width: 768px) {
+            .nav ul {
+                flex-direction: column;
+            }
+            
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .content {
+                padding: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Customization Guide</h1>
+            <p>Automation Business Dashboard Template Documentation</p>
+        </div>
+        
+        <nav class="nav">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="installation.html">Installation</a></li>
+                <li><a href="quick-start.html">Quick Start</a></li>
+                <li><a href="customization.html">Customization</a></li>
+                <li><a href="features.html">Features</a></li>
+                <li><a href="troubleshooting.html">Troubleshooting</a></li>
+                <li><a href="api-reference.html">API Reference</a></li>
+                <li><a href="deployment.html">Deployment</a></li>
+            </ul>
+        </nav>
+        
+        <div class="content">
+            <h1>🚀 SIMPLE MANUAL GUIDE - RUN AUTOMATION TOOLS</h1>
+<h2>⚡ <strong>QUICK START (5 MINUTES)</strong></h2>
+<h3><strong>Step 1: Double-Click These Files</strong></h3>
+<div class="codehilite"><pre><span></span><code><span class="mf">1.</span><span class="w"> </span><span class="n">linkedin</span><span class="o">-</span><span class="n">automation</span><span class="mf">.</span><span class="n">bat</span><span class="w">     </span><span class="o">-</span><span class="w"> </span><span class="n">LinkedIn</span><span class="w"> </span><span class="n">lead</span><span class="w"> </span><span class="n">generation</span>
+<span class="mf">2.</span><span class="w"> </span><span class="n">email</span><span class="o">-</span><span class="n">campaign</span><span class="mf">.</span><span class="n">bat</span><span class="w">          </span><span class="o">-</span><span class="w"> </span><span class="n">Email</span><span class="w"> </span><span class="n">marketing</span>
+<span class="mf">3.</span><span class="w"> </span><span class="n">web</span><span class="o">-</span><span class="n">scraper</span><span class="mf">.</span><span class="n">bat</span><span class="w">            </span><span class="o">-</span><span class="w"> </span><span class="n">Web</span><span class="w"> </span><span class="n">scraping</span>
+<span class="mf">4.</span><span class="w"> </span><span class="n">start</span><span class="o">-</span><span class="n">dashboard</span><span class="mf">.</span><span class="n">bat</span><span class="w">        </span><span class="o">-</span><span class="w"> </span><span class="n">Client</span><span class="w"> </span><span class="n">dashboard</span>
+</code></pre></div>
+
+<h3><strong>Step 2: Follow the Prompts</strong></h3>
+<p>Each tool will ask you simple questions. Just answer them and press Enter.</p>
+<hr />
+<h2>🔍 <strong>LINKEDIN AUTOMATION</strong></h2>
+<h3><strong>What It Does:</strong></h3>
+<ul>
+<li>Finds prospects on LinkedIn automatically</li>
+<li>Extracts contact information</li>
+<li>Saves leads to CSV file</li>
+</ul>
+<h3><strong>How to Use:</strong></h3>
+<ol>
+<li><strong>Double-click:</strong> <code>linkedin-automation.bat</code></li>
+<li><strong>Enter location:</strong> New York</li>
+<li><strong>Enter industry:</strong> Real Estate</li>
+<li><strong>Enter job title:</strong> Agent</li>
+<li><strong>Enter number of leads:</strong> 50</li>
+<li><strong>Press Enter</strong> and wait 5-15 minutes</li>
+<li><strong>Check results:</strong> Look for <code>generated_leads_*.csv</code> file</li>
+</ol>
+<h3><strong>Results:</strong></h3>
+<ul>
+<li>CSV file with names, companies, emails, phones</li>
+<li>Ready to import into email campaigns</li>
+</ul>
+<hr />
+<h2>📧 <strong>EMAIL CAMPAIGN</strong></h2>
+<h3><strong>What It Does:</strong></h3>
+<ul>
+<li>Sends personalized emails to leads</li>
+<li>Tracks opens and clicks</li>
+<li>Manages follow-up sequences</li>
+</ul>
+<h3><strong>How to Use:</strong></h3>
+<ol>
+<li><strong>First time setup:</strong></li>
+<li>Open <code>automation-templates/email-config.py</code></li>
+<li>Change <code>your-email@gmail.com</code> to your Gmail</li>
+<li>Change <code>your-app-password</code> to Gmail app password</li>
+<li>
+<p>Save the file</p>
+</li>
+<li>
+<p><strong>Get Gmail app password:</strong></p>
+</li>
+<li>Go to myaccount.google.com</li>
+<li>Security → 2-Step Verification → App passwords</li>
+<li>Generate password for "Mail"</li>
+<li>
+<p>Copy the 16-character password</p>
+</li>
+<li>
+<p><strong>Run email tool:</strong></p>
+</li>
+<li>Double-click <code>email-campaign.bat</code></li>
+<li>Choose option 1 (Send new campaign)</li>
+<li>Enter campaign name</li>
+<li>Choose email template</li>
+<li>Press Enter to send</li>
+</ol>
+<h3><strong>Results:</strong></h3>
+<ul>
+<li>Emails sent to all leads</li>
+<li>Tracking data saved</li>
+<li>Follow-up emails scheduled</li>
+</ul>
+<hr />
+<h2>🕷️ <strong>WEB SCRAPING</strong></h2>
+<h3><strong>What It Does:</strong></h3>
+<ul>
+<li>Extracts data from any website</li>
+<li>Saves data to CSV, JSON, Excel</li>
+<li>Handles JavaScript and dynamic content</li>
+</ul>
+<h3><strong>How to Use:</strong></h3>
+<ol>
+<li><strong>Double-click:</strong> <code>web-scraper.bat</code></li>
+<li><strong>Enter website URL:</strong> https://example.com</li>
+<li><strong>Choose data to extract:</strong></li>
+<li>Product names</li>
+<li>Prices</li>
+<li>Contact information</li>
+<li><strong>Press Enter</strong> and wait for completion</li>
+<li><strong>Check results:</strong> Look for <code>scraped_data.*</code> files</li>
+</ol>
+<h3><strong>Results:</strong></h3>
+<ul>
+<li>CSV file with extracted data</li>
+<li>JSON file for programming use</li>
+<li>Excel file for easy viewing</li>
+</ul>
+<hr />
+<h2>🌐 <strong>CLIENT DASHBOARD</strong></h2>
+<h3><strong>What It Does:</strong></h3>
+<ul>
+<li>Shows all automation results in one place</li>
+<li>Professional interface for clients</li>
+<li>Real-time analytics and reporting</li>
+</ul>
+<h3><strong>How to Use:</strong></h3>
+<ol>
+<li><strong>Double-click:</strong> <code>start-dashboard.bat</code></li>
+<li><strong>Wait for server to start</strong> (30 seconds)</li>
+<li><strong>Open browser</strong> and go to: http://localhost:3000</li>
+<li><strong>Login with:</strong></li>
+<li>Email: admin@automatepro.com</li>
+<li>Password: admin123</li>
+<li><strong>Explore the dashboard:</strong></li>
+<li>View LinkedIn leads</li>
+<li>Check email campaigns</li>
+<li>See scraped data</li>
+<li>Monitor analytics</li>
+</ol>
+<h3><strong>Results:</strong></h3>
+<ul>
+<li>Professional client interface</li>
+<li>All data in one place</li>
+<li>Ready to show to clients</li>
+</ul>
+<hr />
+<h2>📱 <strong>ACCESS FROM PHONE</strong></h2>
+<h3><strong>Find Your Computer's IP:</strong></h3>
+<ol>
+<li>Open Command Prompt</li>
+<li>Type: <code>ipconfig</code></li>
+<li>Look for: IPv4 Address (e.g., 192.168.1.100)</li>
+</ol>
+<h3><strong>Access from Phone:</strong></h3>
+<ol>
+<li>Open browser on phone</li>
+<li>Go to: <code>http://192.168.1.100:3000</code></li>
+<li>Use same login credentials</li>
+</ol>
+<hr />
+<h2>🔧 <strong>TROUBLESHOOTING</strong></h2>
+<h3><strong>"Python not found" Error:</strong></h3>
+<ul>
+<li>Download Python from python.org</li>
+<li>Install with "Add to PATH" checked</li>
+<li>Restart computer</li>
+<li>Try again</li>
+</ul>
+<h3><strong>"Module not found" Error:</strong></h3>
+<ul>
+<li>Open Command Prompt</li>
+<li>Type: <code>python -m pip install selenium beautifulsoup4 pandas</code></li>
+<li>Wait for installation</li>
+<li>Try again</li>
+</ul>
+<h3><strong>Email not sending:</strong></h3>
+<ul>
+<li>Check Gmail app password</li>
+<li>Enable 2-factor authentication</li>
+<li>Check internet connection</li>
+<li>Try test email first</li>
+</ul>
+<h3><strong>LinkedIn not working:</strong></h3>
+<ul>
+<li>Check LinkedIn credentials</li>
+<li>Clear browser cache</li>
+<li>Try logging in manually first</li>
+<li>Check for CAPTCHA</li>
+</ul>
+<hr />
+<h2>📊 <strong>CHECK YOUR RESULTS</strong></h2>
+<h3><strong>LinkedIn Results:</strong></h3>
+<ul>
+<li>File: <code>generated_leads_*.csv</code></li>
+<li>Contains: Names, companies, emails, phones</li>
+<li>Location: <code>automation-templates</code> folder</li>
+</ul>
+<h3><strong>Email Results:</strong></h3>
+<ul>
+<li>File: <code>email_campaigns.db</code></li>
+<li>Contains: Sent emails, opens, clicks</li>
+<li>View: Run email tool → View campaigns</li>
+</ul>
+<h3><strong>Web Scraping Results:</strong></h3>
+<ul>
+<li>Files: <code>scraped_data.csv</code>, <code>scraped_data.json</code>, <code>scraped_data.xlsx</code></li>
+<li>Contains: Extracted data from website</li>
+<li>Location: <code>automation-templates</code> folder</li>
+</ul>
+<h3><strong>Dashboard Results:</strong></h3>
+<ul>
+<li>URL: <code>http://localhost:3000/dashboard</code></li>
+<li>Shows: All automation results in one place</li>
+<li>Login: <code>admin@automatepro.com</code> / <code>admin123</code></li>
+</ul>
+<hr />
+<h2>🚀 <strong>QUICK COMMANDS</strong></h2>
+<h3><strong>Start Everything at Once:</strong></h3>
+<ul>
+<li>Double-click: <code>start-automation-tools.bat</code></li>
+<li>This opens all tools in separate windows</li>
+<li>Wait for all to load</li>
+<li>Open dashboard in browser</li>
+</ul>
+<h3><strong>Individual Tools:</strong></h3>
+<ul>
+<li><code>linkedin-automation.bat</code> - LinkedIn leads</li>
+<li><code>email-campaign.bat</code> - Email marketing</li>
+<li><code>web-scraper.bat</code> - Web scraping</li>
+<li><code>start-dashboard.bat</code> - Client dashboard</li>
+</ul>
+<hr />
+<h2>💡 <strong>PRO TIPS</strong></h2>
+<h3><strong>For Better Results:</strong></h3>
+<ol>
+<li><strong>Start small</strong> - Test with 10 leads first</li>
+<li><strong>Check credentials</strong> - Make sure all accounts work</li>
+<li><strong>Monitor progress</strong> - Watch for errors</li>
+<li><strong>Save data</strong> - Backup your results</li>
+<li><strong>Scale up</strong> - Increase numbers gradually</li>
+</ol>
+<h3><strong>For Troubleshooting:</strong></h3>
+<ol>
+<li><strong>Read error messages</strong> - They tell you what's wrong</li>
+<li><strong>Check internet</strong> - Make sure connection is stable</li>
+<li><strong>Restart tools</strong> - Close and reopen if stuck</li>
+<li><strong>Update software</strong> - Keep Python and Node.js updated</li>
+<li><strong>Ask for help</strong> - Use the troubleshooting guide</li>
+</ol>
+<hr />
+<h2>🎯 <strong>SUCCESS CHECKLIST</strong></h2>
+<h3><strong>After Setup:</strong></h3>
+<ul>
+<li>[ ] LinkedIn tool generates leads</li>
+<li>[ ] Email tool sends campaigns</li>
+<li>[ ] Web scraper extracts data</li>
+<li>[ ] Dashboard shows results</li>
+<li>[ ] All tools run without errors</li>
+</ul>
+<h3><strong>Test Everything:</strong></h3>
+<ul>
+<li>[ ] Generate 10 LinkedIn leads</li>
+<li>[ ] Send 1 test email</li>
+<li>[ ] Scrape 1 website</li>
+<li>[ ] Access dashboard</li>
+<li>[ ] View all results</li>
+</ul>
+<hr />
+<h2>🚀 <strong>READY TO START!</strong></h2>
+<p>Your automation business system is ready to use! Just double-click the batch files and follow the prompts.</p>
+<p><strong>Remember:</strong> Take it one step at a time, and don't hesitate to repeat steps if needed.</p>
+<hr />
+<p><em>Your automation tools are ready to operate! Start with LinkedIn automation and work your way through each tool. 🚀</em></p>
+        </div>
+        
+        <div class="footer">
+            <p>&copy; 2024 Automation Dashboard Template. All rights reserved.</p>
+            <p>Template ID: 1692573 | Version: 1.0.0</p>
+        </div>
+    </div>
+</body>
+</html>

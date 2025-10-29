@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quick Start Guide - Automation Dashboard Template</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f8f9fa;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 2rem 0;
+            text-align: center;
+            margin-bottom: 2rem;
+            border-radius: 10px;
+        }
+        
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+        
+        .nav {
+            background: white;
+            padding: 1rem;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            margin-bottom: 2rem;
+        }
+        
+        .nav ul {
+            list-style: none;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+        
+        .nav a {
+            color: #667eea;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+        }
+        
+        .nav a:hover {
+            background: #667eea;
+            color: white;
+        }
+        
+        .content {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            margin-bottom: 2rem;
+        }
+        
+        .content h1, .content h2, .content h3 {
+            color: #667eea;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }
+        
+        .content h1 {
+            font-size: 2rem;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 0.5rem;
+        }
+        
+        .content h2 {
+            font-size: 1.5rem;
+            border-left: 4px solid #667eea;
+            padding-left: 1rem;
+        }
+        
+        .content h3 {
+            font-size: 1.2rem;
+            color: #555;
+        }
+        
+        .content p {
+            margin-bottom: 1rem;
+        }
+        
+        .content ul, .content ol {
+            margin-left: 2rem;
+            margin-bottom: 1rem;
+        }
+        
+        .content li {
+            margin-bottom: 0.5rem;
+        }
+        
+        .code-block {
+            background: #f8f9fa;
+            border: 1px solid #e9ecef;
+            border-radius: 5px;
+            padding: 1rem;
+            margin: 1rem 0;
+            overflow-x: auto;
+        }
+        
+        .code-block pre {
+            margin: 0;
+            font-family: 'Courier New', monospace;
+        }
+        
+        .highlight {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            border-radius: 5px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+        
+        .success {
+            background: #d4edda;
+            border: 1px solid #c3e6cb;
+            color: #155724;
+            border-radius: 5px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+        
+        .warning {
+            background: #f8d7da;
+            border: 1px solid #f5c6cb;
+            color: #721c24;
+            border-radius: 5px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+        
+        .info {
+            background: #d1ecf1;
+            border: 1px solid #bee5eb;
+            color: #0c5460;
+            border-radius: 5px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 2rem;
+            color: #666;
+            border-top: 1px solid #eee;
+        }
+        
+        @media (max-width: 768px) {
+            .nav ul {
+                flex-direction: column;
+            }
+            
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .content {
+                padding: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Quick Start Guide</h1>
+            <p>Automation Business Dashboard Template Documentation</p>
+        </div>
+        
+        <nav class="nav">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="installation.html">Installation</a></li>
+                <li><a href="quick-start.html">Quick Start</a></li>
+                <li><a href="customization.html">Customization</a></li>
+                <li><a href="features.html">Features</a></li>
+                <li><a href="troubleshooting.html">Troubleshooting</a></li>
+                <li><a href="api-reference.html">API Reference</a></li>
+                <li><a href="deployment.html">Deployment</a></li>
+            </ul>
+        </nav>
+        
+        <div class="content">
+            <h1>🎯 QUICK START VISUAL GUIDE - AUTOMATION TOOLS</h1>
+<h2>🚀 <strong>STEP-BY-STEP VISUAL INSTRUCTIONS</strong></h2>
+<h3><strong>🔍 LINKEDIN AUTOMATION</strong></h3>
+<h4><strong>Step 1: Open Command Prompt</strong></h4>
+<div class="codehilite"><pre><span></span><code><span class="mf">1.</span><span class="w"> </span><span class="n">Press</span><span class="w"> </span><span class="n">Windows</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">R</span>
+<span class="mf">2.</span><span class="w"> </span><span class="n">Type</span><span class="p">:</span><span class="w"> </span><span class="kr">cmd</span>
+<span class="mf">3.</span><span class="w"> </span><span class="n">Press</span><span class="w"> </span><span class="n">Enter</span>
+</code></pre></div>
+
+<h4><strong>Step 2: Navigate to Project</strong></h4>
+<div class="codehilite"><pre><span></span><code><span class="n">Type</span><span class="o">:</span><span class="w"> </span><span class="n">cd</span><span class="w"> </span><span class="n">C</span><span class="o">:\</span><span class="n">Users</span><span class="o">\</span><span class="n">USER</span><span class="o">\</span><span class="n">Desktop</span><span class="o">\</span><span class="n">automation</span><span class="o">\</span><span class="n">automation</span><span class="o">-</span><span class="n">templates</span>
+<span class="n">Press</span><span class="w"> </span><span class="n">Enter</span>
+</code></pre></div>
+
+<h4><strong>Step 3: Run LinkedIn Tool</strong></h4>
+<div class="codehilite"><pre><span></span><code><span class="n">Type</span><span class="o">:</span><span class="w"> </span><span class="n">python</span><span class="w"> </span><span class="n">linkedin</span><span class="o">-</span><span class="n">lead</span><span class="o">-</span><span class="n">generator</span><span class="o">.</span><span class="na">py</span>
+<span class="n">Press</span><span class="w"> </span><span class="n">Enter</span>
+</code></pre></div>
+
+<h4><strong>Step 4: Follow Prompts</strong></h4>
+<div class="codehilite"><pre><span></span><code>Enter search location: New York
+Enter industry: Real Estate
+Enter job title: Agent
+Enter number of leads: 50
+Press Enter to start
+</code></pre></div>
+
+<h4><strong>Step 5: Wait and Check Results</strong></h4>
+<div class="codehilite"><pre><span></span><code>Wait 5-15 minutes
+Check for: generated_leads_*.csv file
+Open the CSV file to see your leads
+</code></pre></div>
+
+<hr />
+<h3><strong>📧 EMAIL CAMPAIGN</strong></h3>
+<h4><strong>Step 1: Configure Email (One Time)</strong></h4>
+<div class="codehilite"><pre><span></span><code><span class="mf">1.</span><span class="w"> </span><span class="kr">Open</span><span class="p">:</span><span class="w"> </span><span class="n">automation</span><span class="o">-</span><span class="n">templates</span><span class="o">/</span><span class="n">email</span><span class="o">-</span><span class="n">config</span><span class="mf">.</span><span class="n">py</span>
+<span class="mf">2.</span><span class="w"> </span><span class="n">Change</span><span class="p">:</span><span class="w"> </span><span class="err">&#39;</span><span class="n">email</span><span class="err">&#39;</span><span class="p">:</span><span class="w"> </span><span class="err">&#39;</span><span class="n">your</span><span class="o">-</span><span class="n">email</span><span class="err">@</span><span class="n">gmail</span><span class="mf">.</span><span class="n">com</span><span class="err">&#39;</span>
+<span class="mf">3.</span><span class="w"> </span><span class="n">Change</span><span class="p">:</span><span class="w"> </span><span class="err">&#39;</span><span class="n">password</span><span class="err">&#39;</span><span class="p">:</span><span class="w"> </span><span class="err">&#39;</span><span class="n">your</span><span class="o">-</span><span class="n">app</span><span class="o">-</span><span class="n">password</span><span class="err">&#39;</span>
+<span class="mf">4.</span><span class="w"> </span><span class="kr">Save</span><span class="w"> </span><span class="n">file</span>
+</code></pre></div>
+
+<h4><strong>Step 2: Get Gmail App Password</strong></h4>
+<div class="codehilite"><pre><span></span><code><span class="mf">1.</span><span class="w"> </span><span class="kr">Go</span><span class="w"> </span><span class="kr">to</span><span class="p">:</span><span class="w"> </span><span class="n">myaccount</span><span class="mf">.</span><span class="kr">go</span><span class="n">ogle</span><span class="mf">.</span><span class="n">com</span>
+<span class="mf">2.</span><span class="w"> </span><span class="n">Security</span><span class="w"> </span><span class="err">→</span><span class="w"> </span><span class="mf">2</span><span class="o">-</span><span class="kr">Step</span><span class="w"> </span><span class="n">Verification</span>
+<span class="mf">3.</span><span class="w"> </span><span class="n">App</span><span class="w"> </span><span class="n">passwords</span><span class="w"> </span><span class="err">→</span><span class="w"> </span><span class="n">Generate</span>
+<span class="mf">4.</span><span class="w"> </span><span class="n">Copy</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="mf">16</span><span class="o">-</span><span class="n">character</span><span class="w"> </span><span class="n">password</span>
+<span class="mf">5.</span><span class="w"> </span><span class="n">Paste</span><span class="w"> </span><span class="n">in</span><span class="w"> </span><span class="n">email</span><span class="o">-</span><span class="n">config</span><span class="mf">.</span><span class="n">py</span>
+</code></pre></div>
+
+<h4><strong>Step 3: Run Email Tool</strong></h4>
+<div class="codehilite"><pre><span></span><code><span class="n">Type</span><span class="o">:</span><span class="w"> </span><span class="n">python</span><span class="w"> </span><span class="n">email</span><span class="o">-</span><span class="n">campaign</span><span class="o">-</span><span class="n">manager</span><span class="o">.</span><span class="na">py</span>
+<span class="n">Press</span><span class="w"> </span><span class="n">Enter</span>
+</code></pre></div>
+
+<h4><strong>Step 4: Send Campaign</strong></h4>
+<div class="codehilite"><pre><span></span><code><span class="n">Choose</span><span class="o">:</span><span class="w"> </span><span class="mi">1</span><span class="w"> </span><span class="o">(</span><span class="n">Send</span><span class="w"> </span><span class="k">new</span><span class="w"> </span><span class="n">campaign</span><span class="o">)</span>
+<span class="n">Enter</span><span class="o">:</span><span class="w"> </span><span class="n">Campaign</span><span class="w"> </span><span class="n">name</span>
+<span class="n">Choose</span><span class="o">:</span><span class="w"> </span><span class="n">Email</span><span class="w"> </span><span class="n">template</span>
+<span class="n">Enter</span><span class="o">:</span><span class="w"> </span><span class="n">Subject</span><span class="w"> </span><span class="n">line</span>
+<span class="n">Press</span><span class="w"> </span><span class="n">Enter</span><span class="w"> </span><span class="n">to</span><span class="w"> </span><span class="n">send</span>
+</code></pre></div>
+
+<hr />
+<h3><strong>🕷️ WEB SCRAPING</strong></h3>
+<h4><strong>Step 1: Run Web Scraper</strong></h4>
+<div class="codehilite"><pre><span></span><code><span class="n">Type</span><span class="o">:</span><span class="w"> </span><span class="n">python</span><span class="w"> </span><span class="n">web</span><span class="o">-</span><span class="n">scraper</span><span class="o">.</span><span class="na">py</span>
+<span class="n">Press</span><span class="w"> </span><span class="n">Enter</span>
+</code></pre></div>
+
+<h4><strong>Step 2: Enter Website</strong></h4>
+<div class="codehilite"><pre><span></span><code>Enter URL: https://example.com
+Press Enter
+</code></pre></div>
+
+<h4><strong>Step 3: Choose Data</strong></h4>
+<div class="codehilite"><pre><span></span><code><span class="n">Select</span><span class="o">:</span><span class="w"> </span><span class="n">Product</span><span class="w"> </span><span class="n">names</span>
+<span class="n">Select</span><span class="o">:</span><span class="w"> </span><span class="n">Prices</span>
+<span class="n">Select</span><span class="o">:</span><span class="w"> </span><span class="n">Contact</span><span class="w"> </span><span class="n">info</span>
+<span class="n">Press</span><span class="w"> </span><span class="n">Enter</span><span class="w"> </span><span class="n">to</span><span class="w"> </span><span class="n">start</span>
+</code></pre></div>
+
+<h4><strong>Step 4: Check Results</strong></h4>
+<div class="codehilite"><pre><span></span><code>Wait for completion
+Check for: scraped_data.csv
+Open file to see extracted data
+</code></pre></div>
+
+<hr />
+<h3><strong>🌐 CLIENT DASHBOARD</strong></h3>
+<h4><strong>Step 1: Start Website</strong></h4>
+<div class="codehilite"><pre><span></span><code>Open new Command Prompt
+Type: cd C:\Users\USER\Desktop\automation
+Press Enter
+Type: node server.js
+Press Enter
+</code></pre></div>
+
+<h4><strong>Step 2: Open Browser</strong></h4>
+<div class="codehilite"><pre><span></span><code><span class="k">Go</span><span class="w"> </span><span class="k">to</span><span class="err">:</span><span class="w"> </span><span class="nl">http</span><span class="p">:</span><span class="o">//</span><span class="nl">localhost</span><span class="p">:</span><span class="mi">3000</span>
+<span class="nl">Login</span><span class="p">:</span><span class="w"> </span><span class="k">admin</span><span class="nv">@automatepro</span><span class="p">.</span><span class="n">com</span>
+<span class="nl">Password</span><span class="p">:</span><span class="w"> </span><span class="n">admin123</span>
+</code></pre></div>
+
+<h4><strong>Step 3: Explore Dashboard</strong></h4>
+<div class="codehilite"><pre><span></span><code><span class="n">Click</span><span class="o">:</span><span class="w"> </span><span class="n">Automation</span><span class="w"> </span><span class="n">Tools</span>
+<span class="n">Click</span><span class="o">:</span><span class="w"> </span><span class="n">Lead</span><span class="w"> </span><span class="n">Generation</span>
+<span class="n">Click</span><span class="o">:</span><span class="w"> </span><span class="n">Email</span><span class="w"> </span><span class="n">Campaigns</span>
+<span class="n">Click</span><span class="o">:</span><span class="w"> </span><span class="n">Analytics</span>
+</code></pre></div>
+
+<hr />
+<h2>📱 <strong>MOBILE ACCESS</strong></h2>
+<h3><strong>Access from Phone:</strong></h3>
+<div class="codehilite"><pre><span></span><code><span class="mf">1.</span><span class="w"> </span><span class="n">Find</span><span class="w"> </span><span class="n">your</span><span class="w"> </span><span class="n">computer</span><span class="err">&#39;</span><span class="n">s</span><span class="w"> </span><span class="n">IP</span><span class="p">:</span>
+<span class="w">   </span><span class="o">-</span><span class="w"> </span><span class="kr">Open</span><span class="w"> </span><span class="n">Command</span><span class="w"> </span><span class="n">Prompt</span>
+<span class="w">   </span><span class="o">-</span><span class="w"> </span><span class="n">Type</span><span class="p">:</span><span class="w"> </span><span class="n">ipconfig</span>
+<span class="w">   </span><span class="o">-</span><span class="w"> </span><span class="n">Look</span><span class="w"> </span><span class="kr">for</span><span class="p">:</span><span class="w"> </span><span class="n">IPv4</span><span class="w"> </span><span class="n">Address</span>
+<span class="w">   </span><span class="o">-</span><span class="w"> </span><span class="n">Example</span><span class="p">:</span><span class="w"> </span><span class="mf">192.168.1.100</span>
+
+<span class="mf">2.</span><span class="w"> </span><span class="n">Access</span><span class="w"> </span><span class="n">from</span><span class="w"> </span><span class="n">phone</span><span class="p">:</span>
+<span class="w">   </span><span class="o">-</span><span class="w"> </span><span class="kr">Open</span><span class="w"> </span><span class="n">browser</span><span class="w"> </span><span class="kr">on</span><span class="w"> </span><span class="n">phone</span>
+<span class="w">   </span><span class="o">-</span><span class="w"> </span><span class="kr">Go</span><span class="w"> </span><span class="kr">to</span><span class="p">:</span><span class="w"> </span><span class="n">http</span><span class="p">:</span><span class="o">//</span><span class="mf">192.168.1.100</span><span class="p">:</span><span class="mf">3000</span>
+<span class="w">   </span><span class="o">-</span><span class="w"> </span><span class="n">Use</span><span class="w"> </span><span class="n">same</span><span class="w"> </span><span class="nb">log</span><span class="n">in</span><span class="w"> </span><span class="n">credentials</span>
+</code></pre></div>
+
+<hr />
+<h2>🔧 <strong>TROUBLESHOOTING</strong></h2>
+<h3><strong>"Python not found" Error:</strong></h3>
+<div class="codehilite"><pre><span></span><code><span class="mf">1.</span><span class="w"> </span><span class="n">Download</span><span class="w"> </span><span class="n">Python</span><span class="w"> </span><span class="n">from</span><span class="w"> </span><span class="n">python</span><span class="o">.</span><span class="n">org</span>
+<span class="mf">2.</span><span class="w"> </span><span class="n">Install</span><span class="w"> </span><span class="n">with</span><span class="w"> </span><span class="s2">&quot;Add to PATH&quot;</span><span class="w"> </span><span class="n">checked</span>
+<span class="mf">3.</span><span class="w"> </span><span class="n">Restart</span><span class="w"> </span><span class="n">Command</span><span class="w"> </span><span class="n">Prompt</span>
+<span class="mf">4.</span><span class="w"> </span><span class="n">Try</span><span class="w"> </span><span class="n">again</span>
+</code></pre></div>
+
+<h3><strong>"Module not found" Error:</strong></h3>
+<div class="codehilite"><pre><span></span><code><span class="n">Type</span><span class="o">:</span><span class="w"> </span><span class="n">pip</span><span class="w"> </span><span class="n">install</span><span class="w"> </span><span class="n">selenium</span><span class="w"> </span><span class="n">beautifulsoup4</span><span class="w"> </span><span class="n">pandas</span>
+<span class="n">Press</span><span class="w"> </span><span class="n">Enter</span>
+<span class="n">Wait</span><span class="w"> </span><span class="k">for</span><span class="w"> </span><span class="n">installation</span>
+<span class="n">Try</span><span class="w"> </span><span class="n">again</span>
+</code></pre></div>
+
+<h3><strong>"Chrome driver" Error:</strong></h3>
+<div class="codehilite"><pre><span></span><code><span class="n">The</span><span class="w"> </span><span class="n">script</span><span class="w"> </span><span class="n">will</span><span class="w"> </span><span class="n">download</span><span class="w"> </span><span class="n">automatically</span>
+<span class="n">Wait</span><span class="w"> </span><span class="k">for</span><span class="w"> </span><span class="n">download</span><span class="w"> </span><span class="n">to</span><span class="w"> </span><span class="n">complete</span>
+<span class="n">Try</span><span class="w"> </span><span class="n">again</span>
+</code></pre></div>
+
+<h3><strong>Email not sending:</strong></h3>
+<div class="codehilite"><pre><span></span><code><span class="mf">1.</span><span class="w"> </span><span class="n">Check</span><span class="w"> </span><span class="n">Gmail</span><span class="w"> </span><span class="n">app</span><span class="w"> </span><span class="n">password</span>
+<span class="mf">2.</span><span class="w"> </span><span class="n">Enable</span><span class="w"> </span><span class="mf">2</span><span class="o">-</span><span class="n">factor</span><span class="w"> </span><span class="n">authentication</span>
+<span class="mf">3.</span><span class="w"> </span><span class="n">Check</span><span class="w"> </span><span class="nb">int</span><span class="n">ernet</span><span class="w"> </span><span class="n">connection</span>
+<span class="mf">4.</span><span class="w"> </span><span class="n">Try</span><span class="w"> </span><span class="n">test</span><span class="w"> </span><span class="n">email</span><span class="w"> </span><span class="n">first</span>
+</code></pre></div>
+
+<hr />
+<h2>📊 <strong>CHECK RESULTS</strong></h2>
+<h3><strong>LinkedIn Results:</strong></h3>
+<div class="codehilite"><pre><span></span><code><span class="n">File</span><span class="o">:</span><span class="w"> </span><span class="n">generated_leads_</span><span class="o">*.</span><span class="n">csv</span>
+<span class="n">Contains</span><span class="o">:</span><span class="w"> </span><span class="n">Name</span><span class="o">,</span><span class="w"> </span><span class="n">Company</span><span class="o">,</span><span class="w"> </span><span class="n">Title</span><span class="o">,</span><span class="w"> </span><span class="n">Email</span><span class="o">,</span><span class="w"> </span><span class="n">Phone</span>
+<span class="n">Location</span><span class="o">:</span><span class="w"> </span><span class="n">automation</span><span class="o">-</span><span class="n">templates</span><span class="w"> </span><span class="n">folder</span>
+</code></pre></div>
+
+<h3><strong>Email Results:</strong></h3>
+<div class="codehilite"><pre><span></span><code><span class="n">File</span><span class="o">:</span><span class="w"> </span><span class="n">email_campaigns</span><span class="o">.</span><span class="na">db</span>
+<span class="n">Contains</span><span class="o">:</span><span class="w"> </span><span class="n">Sent</span><span class="w"> </span><span class="n">emails</span><span class="o">,</span><span class="w"> </span><span class="n">opens</span><span class="o">,</span><span class="w"> </span><span class="n">clicks</span>
+<span class="n">View</span><span class="o">:</span><span class="w"> </span><span class="n">Run</span><span class="w"> </span><span class="n">email</span><span class="o">-</span><span class="n">campaign</span><span class="o">-</span><span class="n">manager</span><span class="o">.</span><span class="na">py</span><span class="w"> </span><span class="err">→</span><span class="w"> </span><span class="n">View</span><span class="w"> </span><span class="n">campaigns</span>
+</code></pre></div>
+
+<h3><strong>Web Scraping Results:</strong></h3>
+<div class="codehilite"><pre><span></span><code><span class="n">Files</span><span class="o">:</span><span class="w"> </span><span class="n">scraped_data</span><span class="o">.</span><span class="na">csv</span><span class="o">,</span><span class="w"> </span><span class="n">scraped_data</span><span class="o">.</span><span class="na">json</span><span class="o">,</span><span class="w"> </span><span class="n">scraped_data</span><span class="o">.</span><span class="na">xlsx</span>
+<span class="n">Contains</span><span class="o">:</span><span class="w"> </span><span class="n">Extracted</span><span class="w"> </span><span class="n">data</span><span class="w"> </span><span class="n">from</span><span class="w"> </span><span class="n">website</span>
+<span class="n">Location</span><span class="o">:</span><span class="w"> </span><span class="n">automation</span><span class="o">-</span><span class="n">templates</span><span class="w"> </span><span class="n">folder</span>
+</code></pre></div>
+
+<h3><strong>Dashboard Results:</strong></h3>
+<div class="codehilite"><pre><span></span><code><span class="n">URL</span><span class="o">:</span><span class="w"> </span><span class="n">http</span><span class="o">://</span><span class="n">localhost</span><span class="o">:</span><span class="mi">3000</span><span class="o">/</span><span class="n">dashboard</span>
+<span class="n">Shows</span><span class="o">:</span><span class="w"> </span><span class="n">All</span><span class="w"> </span><span class="n">automation</span><span class="w"> </span><span class="n">results</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="n">one</span><span class="w"> </span><span class="n">place</span>
+<span class="n">Login</span><span class="o">:</span><span class="w"> </span><span class="n">admin</span><span class="err">@</span><span class="n">automatepro</span><span class="o">.</span><span class="na">com</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">admin123</span>
+</code></pre></div>
+
+<hr />
+<h2>🚀 <strong>QUICK COMMANDS</strong></h2>
+<h3><strong>Start Everything:</strong></h3>
+<div class="codehilite"><pre><span></span><code><span class="c1"># Terminal 1</span>
+<span class="nb">cd</span><span class="w"> </span>C:<span class="se">\U</span>sers<span class="se">\U</span>SER<span class="se">\D</span>esktop<span class="se">\a</span>utomation
+node<span class="w"> </span>server.js
+
+<span class="c1"># Terminal 2</span>
+<span class="nb">cd</span><span class="w"> </span>C:<span class="se">\U</span>sers<span class="se">\U</span>SER<span class="se">\D</span>esktop<span class="se">\a</span>utomation<span class="se">\a</span>utomation-templates
+python<span class="w"> </span>linkedin-lead-generator.py
+
+<span class="c1"># Terminal 3</span>
+<span class="nb">cd</span><span class="w"> </span>C:<span class="se">\U</span>sers<span class="se">\U</span>SER<span class="se">\D</span>esktop<span class="se">\a</span>utomation<span class="se">\a</span>utomation-templates
+python<span class="w"> </span>email-campaign-manager.py
+</code></pre></div>
+
+<h3><strong>Check Status:</strong></h3>
+<div class="codehilite"><pre><span></span><code><span class="c1"># Check if working</span>
+curl<span class="w"> </span>http://localhost:3000
+
+<span class="c1"># Check Python</span>
+python<span class="w"> </span>--version
+
+<span class="c1"># Check Node.js</span>
+node<span class="w"> </span>--version
+</code></pre></div>
+
+<hr />
+<h2>🎯 <strong>SUCCESS CHECKLIST</strong></h2>
+<h3><strong>After Setup:</strong></h3>
+<ul>
+<li>[ ] LinkedIn tool generates leads</li>
+<li>[ ] Email tool sends campaigns</li>
+<li>[ ] Web scraper extracts data</li>
+<li>[ ] Dashboard shows results</li>
+<li>[ ] All tools run without errors</li>
+</ul>
+<h3><strong>Test Everything:</strong></h3>
+<ul>
+<li>[ ] Generate 10 LinkedIn leads</li>
+<li>[ ] Send 1 test email</li>
+<li>[ ] Scrape 1 website</li>
+<li>[ ] Access dashboard</li>
+<li>[ ] View all results</li>
+</ul>
+<hr />
+<h2>💡 <strong>PRO TIPS</strong></h2>
+<h3><strong>For Better Results:</strong></h3>
+<ol>
+<li><strong>Start small</strong> - Test with 10 leads first</li>
+<li><strong>Check credentials</strong> - Make sure all accounts work</li>
+<li><strong>Monitor progress</strong> - Watch for errors</li>
+<li><strong>Save data</strong> - Backup your results</li>
+<li><strong>Scale up</strong> - Increase numbers gradually</li>
+</ol>
+<h3><strong>For Troubleshooting:</strong></h3>
+<ol>
+<li><strong>Read error messages</strong> - They tell you what's wrong</li>
+<li><strong>Check internet</strong> - Make sure connection is stable</li>
+<li><strong>Restart tools</strong> - Close and reopen if stuck</li>
+<li><strong>Update software</strong> - Keep Python and Node.js updated</li>
+<li><strong>Ask for help</strong> - Use the troubleshooting guide</li>
+</ol>
+<hr />
+<h2>🚀 <strong>READY TO START!</strong></h2>
+<p>Follow these visual steps and you'll be running your automation business system in no time!</p>
+<p><strong>Remember:</strong> Take it one step at a time, and don't hesitate to repeat steps if needed.</p>
+<hr />
+<p><em>Your automation tools are ready to operate! Start with LinkedIn automation and work your way through each tool. 🚀</em></p>
+        </div>
+        
+        <div class="footer">
+            <p>&copy; 2024 Automation Dashboard Template. All rights reserved.</p>
+            <p>Template ID: 1692573 | Version: 1.0.0</p>
+        </div>
+    </div>
+</body>
+</html>
